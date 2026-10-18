@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "ip-as.net open data: hosting, DNS, email and phishing statistics"
+type: dataset
+authors:
+  - family-names: "Poiraux"
+    given-names: "Constentin"
+    website: "https://ip-as.net/about"
+url: "https://ip-as.net/research/"
+repository-code: "https://github.com/ip-as/ip-as-data"
+license: CC-BY-4.0
+abstract: "Open datasets and methodology from ip-as.net: hosting, DNS, email infrastructure and phishing statistics derived from 260M+ domains."
+keywords:
+  - web hosting
+  - DNS
+  - email security
+  - DMARC
+  - phishing
+  - internet measurement
+date-released: "2026-10-17"
