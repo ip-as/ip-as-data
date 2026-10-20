@@ -47,7 +47,7 @@ CSV, UTF-8, comma separated, one header row. Common columns: `snapshot_date`, `s
 
 - **Hosted by** = the company whose network announces the IP a name resolves to. Behind a CDN (Cloudflare, Fastly, Akamai…), that is the CDN, not the origin server.
 - Counts are **domains, not sites or traffic**: parked and dormant domains count in the extension segments. Popularity segments are closer to real use.
-- **.com and .net coverage is being completed.** The .com zone (ICANN CZDS) is being ingested in nightly batches during October 2026; until that finishes, .com figures are partial and will change. Studies state the coverage they rely on.
+- **.com and .net come from the full ICANN CZDS zone files** (ingested in October 2026; completed 19 October 2026). Domains are re-resolved on a rolling cycle, so individual records can be up to about three months old. Studies state the coverage they rely on.
 - Popularity lists change over time: a share can move because the list moved.
 - Phishing figures are **what public blocklists say**, not verified by us, and reflect an extension's size as much as its abuse handling.
 

@@ -31,4 +31,4 @@ Canonical version: <https://ip-as.net/research/>. Data: <https://ip-as.net/resea
 
 ## Limits
 
-See the README and <https://ip-as.net/research/#hosting>: CDN attribution, domains rather than traffic, partial .com coverage while its zone is being ingested (October 2026), popularity-list drift, phishing listings not verified by ip-as.net.
+See the README and <https://ip-as.net/research/#hosting>: CDN attribution, domains rather than traffic, rolling re-resolution (records up to about three months old), popularity-list drift, phishing listings not verified by ip-as.net.
