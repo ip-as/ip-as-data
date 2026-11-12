@@ -62,7 +62,7 @@ Full method and limits: <https://ip-as.net/research/>.
 
 ## How to cite
 
-> Poiraux, C., ip-as.net. Dataset snapshot: *date from the `snapshot_date` column*. https://ip-as.net/research/
+> Xavier J., ip-as.net. Dataset snapshot: *date from the `snapshot_date` column*. https://ip-as.net/research/
 
 GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff). For specific statistics, please cite the corresponding dataset.
 

@@ -3,8 +3,8 @@ message: "If you use these datasets, please cite them as below."
 title: "ip-as.net open data: hosting, DNS, email and phishing statistics"
 type: dataset
 authors:
-  - family-names: "Poiraux"
-    given-names: "Constentin"
+  - family-names: "J."
+    given-names: "Xavier"
     website: "https://ip-as.net/about"
 url: "https://ip-as.net/research/"
 repository-code: "https://github.com/ip-as/ip-as-data"
