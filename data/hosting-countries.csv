@@ -1,1026 +1,1026 @@
 snapshot_date,country_code,country_name,sample_size,rank,provider,domains,share_percent
-2026-11-12,DE,Germany,842199,1,Cloudflare,201650,23.94
-2026-11-12,DE,Germany,842199,2,Hetzner,79298,9.42
-2026-11-12,DE,Germany,842199,3,IONOS,72162,8.57
-2026-11-12,DE,Germany,842199,4,Amazon (AWS),50354,5.98
-2026-11-12,DE,Germany,842199,5,Neue Medien Muennich GmbH,47773,5.67
-2026-11-12,GB,United Kingdom,775086,1,Cloudflare,299227,38.61
-2026-11-12,GB,United Kingdom,775086,2,Amazon (AWS),90559,11.68
-2026-11-12,GB,United Kingdom,775086,3,Google,36453,4.70
-2026-11-12,GB,United Kingdom,775086,4,Wix,26123,3.37
-2026-11-12,GB,United Kingdom,775086,5,IONOS,23640,3.05
-2026-11-12,JP,Japan,765568,1,Xserver Inc.,164994,21.55
-2026-11-12,JP,Japan,765568,2,SAKURA Internet Inc.,115385,15.07
-2026-11-12,JP,Japan,765568,3,"GMO Internet, Inc.",109087,14.25
-2026-11-12,JP,Japan,765568,4,Cloudflare,95986,12.54
-2026-11-12,JP,Japan,765568,5,Amazon (AWS),87735,11.46
-2026-11-12,IN,India,742221,1,Cloudflare,256632,34.58
-2026-11-12,IN,India,742221,2,Amazon (AWS),108271,14.59
-2026-11-12,IN,India,742221,3,Hostinger,102422,13.80
-2026-11-12,IN,India,742221,4,Google,32260,4.35
-2026-11-12,IN,India,742221,5,GoDaddy,15547,2.09
-2026-11-12,BR,Brazil,722509,1,Cloudflare,260449,36.05
-2026-11-12,BR,Brazil,722509,2,Amazon (AWS),95108,13.16
-2026-11-12,BR,Brazil,722509,3,Hostinger,65599,9.08
-2026-11-12,BR,Brazil,722509,4,Oracle Corporation,44810,6.20
-2026-11-12,BR,Brazil,722509,5,Google,18891,2.61
-2026-11-12,US,United States of America,717015,1,Cloudflare,322315,44.95
-2026-11-12,US,United States of America,717015,2,Amazon (AWS),98298,13.71
-2026-11-12,US,United States of America,717015,3,Google,30178,4.21
-2026-11-12,US,United States of America,717015,4,Fastly,21037,2.93
-2026-11-12,US,United States of America,717015,5,Squarespace,17358,2.42
-2026-11-12,FR,France,695378,1,Cloudflare,196116,28.20
-2026-11-12,FR,France,695378,2,OVHcloud,142442,20.48
-2026-11-12,FR,France,695378,3,Amazon (AWS),54397,7.82
-2026-11-12,FR,France,695378,4,o2switch,33375,4.80
-2026-11-12,FR,France,695378,5,IONOS,21537,3.10
-2026-11-12,IT,Italy,586153,1,Cloudflare,152059,25.94
-2026-11-12,IT,Italy,586153,2,Aruba S.p.A.,90489,15.44
-2026-11-12,IT,Italy,586153,3,Amazon (AWS),52031,8.88
-2026-11-12,IT,Italy,586153,4,Server Plan S.r.l.,23186,3.96
-2026-11-12,IT,Italy,586153,5,Hetzner,22574,3.85
-2026-11-12,ID,Indonesia,572643,1,Cloudflare,305170,53.29
-2026-11-12,ID,Indonesia,572643,2,Amazon (AWS),43693,7.63
-2026-11-12,ID,Indonesia,572643,3,Hostinger,34856,6.09
-2026-11-12,ID,Indonesia,572643,4,Google,25043,4.37
-2026-11-12,ID,Indonesia,572643,5,CV. Rumahweb Indonesia,10913,1.91
-2026-11-12,ES,Spain,552591,1,Cloudflare,149826,27.11
-2026-11-12,ES,Spain,552591,2,Amazon (AWS),48842,8.84
-2026-11-12,ES,Spain,552591,3,IONOS,45231,8.19
-2026-11-12,ES,Spain,552591,4,OVHcloud,27898,5.05
-2026-11-12,ES,Spain,552591,5,Google,21707,3.93
-2026-11-12,CA,Canada,520009,1,Cloudflare,220152,42.34
-2026-11-12,CA,Canada,520009,2,Amazon (AWS),66044,12.70
-2026-11-12,CA,Canada,520009,3,Google,21786,4.19
-2026-11-12,CA,Canada,520009,4,Wix,17297,3.33
-2026-11-12,CA,Canada,520009,5,OVHcloud,16106,3.10
-2026-11-12,RU,Russia,474973,1,Ddos-guard Ltd,53285,11.22
-2026-11-12,RU,Russia,474973,2,Beget LLC,53023,11.16
-2026-11-12,RU,Russia,474973,3,Cloudflare,48710,10.26
-2026-11-12,RU,Russia,474973,4,Jsc timeweb,41424,8.72
-2026-11-12,RU,Russia,474973,5,"Domain names registrar REG.RU, Ltd",40119,8.45
-2026-11-12,NL,Netherlands,418413,1,Cloudflare,129631,30.98
-2026-11-12,NL,Netherlands,418413,2,Amazon (AWS),34791,8.31
-2026-11-12,NL,Netherlands,418413,3,Signet B.V.,17876,4.27
-2026-11-12,NL,Netherlands,418413,4,Hetzner,12395,2.96
-2026-11-12,NL,Netherlands,418413,5,Google,10996,2.63
-2026-11-12,PL,Poland,385469,1,Cloudflare,98059,25.44
-2026-11-12,PL,Poland,385469,2,Cyber_Folks S.A.,36239,9.40
-2026-11-12,PL,Poland,385469,3,Amazon (AWS),24140,6.26
-2026-11-12,PL,Poland,385469,4,home.pl sp. z o.o.,19786,5.13
-2026-11-12,PL,Poland,385469,5,OVHcloud,18938,4.91
-2026-11-12,AU,Australia,363018,1,Cloudflare,157970,43.52
-2026-11-12,AU,Australia,363018,2,Amazon (AWS),48989,13.49
-2026-11-12,AU,Australia,363018,3,Google,16977,4.68
-2026-11-12,AU,Australia,363018,4,SYNERGY WHOLESALE PTY LTD,13672,3.77
-2026-11-12,AU,Australia,363018,5,Squarespace,12315,3.39
-2026-11-12,TR,Turkey,350589,1,Cloudflare,149384,42.61
-2026-11-12,TR,Turkey,350589,2,Amazon (AWS),25440,7.26
-2026-11-12,TR,Turkey,350589,3,Cizgi Telekomunikasyon Anonim Sirketi,15886,4.53
-2026-11-12,TR,Turkey,350589,4,GNET Internet Telekomunikasyon A.S.,13328,3.80
-2026-11-12,TR,Turkey,350589,5,Hostinger,9882,2.82
-2026-11-12,MX,Mexico,331102,1,Cloudflare,121273,36.63
-2026-11-12,MX,Mexico,331102,2,Amazon (AWS),41349,12.49
-2026-11-12,MX,Mexico,331102,3,Hostinger,16285,4.92
-2026-11-12,MX,Mexico,331102,4,Google,15835,4.78
-2026-11-12,MX,Mexico,331102,5,Oracle Corporation,8703,2.63
-2026-11-12,AR,Argentina,263671,1,Cloudflare,78749,29.87
-2026-11-12,AR,Argentina,263671,2,Amazon (AWS),36022,13.66
-2026-11-12,AR,Argentina,263671,3,LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE,19545,7.41
-2026-11-12,AR,Argentina,263671,4,Hostinger,18123,6.87
-2026-11-12,AR,Argentina,263671,5,Dattatec.com,17226,6.53
-2026-11-12,IR,Iran,250663,1,Cloudflare,44948,17.93
-2026-11-12,IR,Iran,250663,2,Netafraz Iranian Ltd.,26765,10.68
-2026-11-12,IR,Iran,250663,3,Netmihan Communication Company Ltd,17012,6.79
-2026-11-12,IR,Iran,250663,4,Dade Pardazi Mobinhost Co LTD,14194,5.66
-2026-11-12,IR,Iran,250663,5,Noyan Abr Arvan Co. ( Private Joint Stock),12696,5.06
-2026-11-12,BE,Belgium,240467,1,Cloudflare,76842,31.96
-2026-11-12,BE,Belgium,240467,2,Amazon (AWS),21411,8.90
-2026-11-12,BE,Belgium,240467,3,Combell NV,20643,8.58
-2026-11-12,BE,Belgium,240467,4,OVHcloud,17268,7.18
-2026-11-12,BE,Belgium,240467,5,Google,6715,2.79
-2026-11-12,VN,Vietnam,232095,1,Cloudflare,87068,37.51
-2026-11-12,VN,Vietnam,232095,2,Amazon (AWS),22587,9.73
-2026-11-12,VN,Vietnam,232095,3,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,13690,5.90
-2026-11-12,VN,Vietnam,232095,4,AZDIGI Corporation,8519,3.67
-2026-11-12,VN,Vietnam,232095,5,SUPERDATA-VN,6855,2.95
-2026-11-12,PH,Philippines,231646,1,Cloudflare,114341,49.36
-2026-11-12,PH,Philippines,231646,2,Amazon (AWS),31628,13.65
-2026-11-12,PH,Philippines,231646,3,ACE,9151,3.95
-2026-11-12,PH,Philippines,231646,4,Google,7611,3.29
-2026-11-12,PH,Philippines,231646,5,Hostinger,6360,2.75
-2026-11-12,PK,Pakistan,224138,1,Cloudflare,108945,48.61
-2026-11-12,PK,Pakistan,224138,2,Amazon (AWS),26504,11.82
-2026-11-12,PK,Pakistan,224138,3,Hostinger,16276,7.26
-2026-11-12,PK,Pakistan,224138,4,Google,6959,3.10
-2026-11-12,PK,Pakistan,224138,5,Hetzner,5109,2.28
-2026-11-12,KR,South Korea,217971,1,Cloudflare,52803,24.22
-2026-11-12,KR,South Korea,217971,2,Korea Telecom,42065,19.30
-2026-11-12,KR,South Korea,217971,3,Amazon (AWS),40922,18.77
-2026-11-12,KR,South Korea,217971,4,SK Broadband Co Ltd,9158,4.20
-2026-11-12,KR,South Korea,217971,5,LG DACOM Corporation,8062,3.70
-2026-11-12,UA,Ukraine,201852,1,Cloudflare,57703,28.59
-2026-11-12,UA,Ukraine,201852,2,Hosting Ukraine LTD,25108,12.44
-2026-11-12,UA,Ukraine,201852,3,Hetzner,12200,6.04
-2026-11-12,UA,Ukraine,201852,4,Amazon (AWS),11292,5.59
-2026-11-12,UA,Ukraine,201852,5,Evo Cloud LLC,11079,5.49
-2026-11-12,CZ,Czech Republic,199271,1,Cloudflare,43456,21.81
-2026-11-12,CZ,Czech Republic,199271,2,Amazon (AWS),16194,8.13
-2026-11-12,CZ,Czech Republic,199271,3,"WEDOS Internet, a.s.",13139,6.59
-2026-11-12,CZ,Czech Republic,199271,4,VSHosting s.r.o.,12242,6.14
-2026-11-12,CZ,Czech Republic,199271,5,MasterDC s.r.o.,9330,4.68
-2026-11-12,BD,Bangladesh,196240,1,Cloudflare,90590,46.16
-2026-11-12,BD,Bangladesh,196240,2,Amazon (AWS),19570,9.97
-2026-11-12,BD,Bangladesh,196240,3,Hostinger,10073,5.13
-2026-11-12,BD,Bangladesh,196240,4,Google,8345,4.25
-2026-11-12,BD,Bangladesh,196240,5,ACE,3926,2.00
-2026-11-12,CO,Colombia,195508,1,Cloudflare,71290,36.46
-2026-11-12,CO,Colombia,195508,2,Amazon (AWS),24634,12.60
-2026-11-12,CO,Colombia,195508,3,Hostinger,14903,7.62
-2026-11-12,CO,Colombia,195508,4,Google,8490,4.34
-2026-11-12,CO,Colombia,195508,5,OVHcloud,7323,3.75
-2026-11-12,MY,Malaysia,183847,1,Cloudflare,82860,45.07
-2026-11-12,MY,Malaysia,183847,2,Amazon (AWS),21201,11.53
-2026-11-12,MY,Malaysia,183847,3,Google,7055,3.84
-2026-11-12,MY,Malaysia,183847,4,Hostinger,4908,2.67
-2026-11-12,MY,Malaysia,183847,5,"Alibaba (US) Technology Co., Ltd.",4504,2.45
-2026-11-12,TH,Thailand,181015,1,Cloudflare,82021,45.31
-2026-11-12,TH,Thailand,181015,2,Amazon (AWS),21440,11.84
-2026-11-12,TH,Thailand,181015,3,CS LOXINFO Public Company Limited.,9646,5.33
-2026-11-12,TH,Thailand,181015,4,Google,5647,3.12
-2026-11-12,TH,Thailand,181015,5,National Telecom Public Company Limited,4373,2.42
-2026-11-12,ZA,South Africa,180834,1,Cloudflare,68713,38.00
-2026-11-12,ZA,South Africa,180834,2,Amazon (AWS),19586,10.83
-2026-11-12,ZA,South Africa,180834,3,Xneelo (Pty) Ltd,18603,10.29
-2026-11-12,ZA,South Africa,180834,4,AFRIHOST SP (PTY) LTD,5865,3.24
-2026-11-12,ZA,South Africa,180834,5,DIAMATRIX C.C,5627,3.11
-2026-11-12,CH,Switzerland,179438,1,Cloudflare,56734,31.62
-2026-11-12,CH,Switzerland,179438,2,Amazon (AWS),16673,9.29
-2026-11-12,CH,Switzerland,179438,3,Hetzner,9363,5.22
-2026-11-12,CH,Switzerland,179438,4,Infomaniak,8321,4.64
-2026-11-12,CH,Switzerland,179438,5,METANET AG,7088,3.95
-2026-11-12,AT,Austria,177386,1,Cloudflare,50817,28.65
-2026-11-12,AT,Austria,177386,2,Hetzner,18151,10.23
-2026-11-12,AT,Austria,177386,3,Amazon (AWS),13605,7.67
-2026-11-12,AT,Austria,177386,4,IONOS,10025,5.65
-2026-11-12,AT,Austria,177386,5,Neue Medien Muennich GmbH,6246,3.52
-2026-11-12,RO,Romania,167894,1,Cloudflare,59367,35.36
-2026-11-12,RO,Romania,167894,2,Amazon (AWS),13827,8.24
-2026-11-12,RO,Romania,167894,3,ROMARG SRL,10629,6.33
-2026-11-12,RO,Romania,167894,4,GTS Telecom SRL,7778,4.63
-2026-11-12,RO,Romania,167894,5,Cyber_Folks SRL,7549,4.50
-2026-11-12,TW,Taiwan,162031,1,Cloudflare,53937,33.29
-2026-11-12,TW,Taiwan,162031,2,Amazon (AWS),24063,14.85
-2026-11-12,TW,Taiwan,162031,3,Data Communication Business Group,14980,9.25
-2026-11-12,TW,Taiwan,162031,4,Google,8335,5.14
-2026-11-12,TW,Taiwan,162031,5,Akamai,4563,2.82
-2026-11-12,CL,Chile,156215,1,Cloudflare,55321,35.41
-2026-11-12,CL,Chile,156215,2,Amazon (AWS),21028,13.46
-2026-11-12,CL,Chile,156215,3,Google,5579,3.57
-2026-11-12,CL,Chile,156215,4,Hostinger,4946,3.17
-2026-11-12,CL,Chile,156215,5,OVHcloud,3119,2.00
-2026-11-12,SE,Sweden,154918,1,Cloudflare,53955,34.83
-2026-11-12,SE,Sweden,154918,2,Amazon (AWS),16797,10.84
-2026-11-12,SE,Sweden,154918,3,Loopia AB,6288,4.06
-2026-11-12,SE,Sweden,154918,4,ODERLAND Webbhotell AB,6132,3.96
-2026-11-12,SE,Sweden,154918,5,One.com A/S,5665,3.66
-2026-11-12,GR,Greece,150275,1,Cloudflare,54744,36.43
-2026-11-12,GR,Greece,150275,2,Hetzner,21888,14.57
-2026-11-12,GR,Greece,150275,3,Amazon (AWS),12185,8.11
-2026-11-12,GR,Greece,150275,4,Combell NV,7785,5.18
-2026-11-12,GR,Greece,150275,5,Google,4199,2.79
-2026-11-12,PT,Portugal,147984,1,Cloudflare,55677,37.62
-2026-11-12,PT,Portugal,147984,2,Amazon (AWS),17709,11.97
-2026-11-12,PT,Portugal,147984,3,Almouroltec Servicos De Informatica E Internet Lda,4924,3.33
-2026-11-12,PT,Portugal,147984,4,Hetzner,4026,2.72
-2026-11-12,PT,Portugal,147984,5,Google,3941,2.66
-2026-11-12,EG,Egypt,147718,1,Cloudflare,69161,46.82
-2026-11-12,EG,Egypt,147718,2,Amazon (AWS),15994,10.83
-2026-11-12,EG,Egypt,147718,3,Hostinger,9169,6.21
-2026-11-12,EG,Egypt,147718,4,Google,5761,3.90
-2026-11-12,EG,Egypt,147718,5,Hetzner,3855,2.61
-2026-11-12,SA,Saudi Arabia,143484,1,Cloudflare,74903,52.20
-2026-11-12,SA,Saudi Arabia,143484,2,Amazon (AWS),14943,10.41
-2026-11-12,SA,Saudi Arabia,143484,3,Hostinger,7500,5.23
-2026-11-12,SA,Saudi Arabia,143484,4,Google,5208,3.63
-2026-11-12,SA,Saudi Arabia,143484,5,Hetzner,2570,1.79
-2026-11-12,HU,Hungary,140821,1,Cloudflare,37970,26.96
-2026-11-12,HU,Hungary,140821,2,Amazon (AWS),13106,9.31
-2026-11-12,HU,Hungary,140821,3,Rackforest Zrt.,10462,7.43
-2026-11-12,HU,Hungary,140821,4,WebSupport s.r.o.,6247,4.44
-2026-11-12,HU,Hungary,140821,5,Tarhely.Eu Szolgaltato Kft.,5303,3.77
-2026-11-12,PE,Peru,125688,1,Cloudflare,47098,37.47
-2026-11-12,PE,Peru,125688,2,Amazon (AWS),15985,12.72
-2026-11-12,PE,Peru,125688,3,Google,5580,4.44
-2026-11-12,PE,Peru,125688,4,Hostinger,5408,4.30
-2026-11-12,PE,Peru,125688,5,DEFT.COM,4707,3.74
-2026-11-12,AE,United Arab Emirates,124762,1,Cloudflare,56377,45.19
-2026-11-12,AE,United Arab Emirates,124762,2,Amazon (AWS),16287,13.05
-2026-11-12,AE,United Arab Emirates,124762,3,Hostinger,6316,5.06
-2026-11-12,AE,United Arab Emirates,124762,4,Google,4074,3.27
-2026-11-12,AE,United Arab Emirates,124762,5,Microsoft,2329,1.87
-2026-11-12,SG,Singapore,124637,1,Cloudflare,54860,44.02
-2026-11-12,SG,Singapore,124637,2,Amazon (AWS),17384,13.95
-2026-11-12,SG,Singapore,124637,3,Google,4139,3.32
-2026-11-12,SG,Singapore,124637,4,Fastly,2321,1.86
-2026-11-12,SG,Singapore,124637,5,Akamai,2263,1.82
-2026-11-12,IL,Israel,122343,1,Cloudflare,49562,40.51
-2026-11-12,IL,Israel,122343,2,Amazon (AWS),14071,11.50
-2026-11-12,IL,Israel,122343,3,Wix,5113,4.18
-2026-11-12,IL,Israel,122343,4,uPress Inc,4797,3.92
-2026-11-12,IL,Israel,122343,5,Google,3953,3.23
-2026-11-12,IE,Ireland,117350,1,Cloudflare,49808,42.44
-2026-11-12,IE,Ireland,117350,2,Amazon (AWS),15252,13.00
-2026-11-12,IE,Ireland,117350,3,Google,3715,3.17
-2026-11-12,IE,Ireland,117350,4,Blacknight Internet Solutions Limited,2640,2.25
-2026-11-12,IE,Ireland,117350,5,Microsoft,2569,2.19
-2026-11-12,FI,Finland,116386,1,Cloudflare,34064,29.27
-2026-11-12,FI,Finland,116386,2,Amazon (AWS),13392,11.51
-2026-11-12,FI,Finland,116386,3,Hetzner,7970,6.85
-2026-11-12,FI,Finland,116386,4,Planeetta Internet Oy,4530,3.89
-2026-11-12,FI,Finland,116386,5,Google,4393,3.77
-2026-11-12,NG,Nigeria,112606,1,Cloudflare,45469,40.38
-2026-11-12,NG,Nigeria,112606,2,Amazon (AWS),17732,15.75
-2026-11-12,NG,Nigeria,112606,3,Hostinger,5085,4.52
-2026-11-12,NG,Nigeria,112606,4,"Namecheap, Inc.",4449,3.95
-2026-11-12,NG,Nigeria,112606,5,Google,3886,3.45
-2026-11-12,NZ,New Zealand,107377,1,Cloudflare,48918,45.56
-2026-11-12,NZ,New Zealand,107377,2,Amazon (AWS),14902,13.88
-2026-11-12,NZ,New Zealand,107377,3,Google,3771,3.51
-2026-11-12,NZ,New Zealand,107377,4,Squarespace,3691,3.44
-2026-11-12,NZ,New Zealand,107377,5,SiteHost New Zealand,3366,3.13
-2026-11-12,DK,Denmark,106718,1,Cloudflare,36857,34.54
-2026-11-12,DK,Denmark,106718,2,team.blue Denmark A/S,17375,16.28
-2026-11-12,DK,Denmark,106718,3,Amazon (AWS),10042,9.41
-2026-11-12,DK,Denmark,106718,4,Hetzner,5209,4.88
-2026-11-12,DK,Denmark,106718,5,One.com A/S,3936,3.69
-2026-11-12,SK,Slovakia,96854,1,Cloudflare,24202,24.99
-2026-11-12,SK,Slovakia,96854,2,WebSupport s.r.o.,15237,15.73
-2026-11-12,SK,Slovakia,96854,3,Amazon (AWS),7219,7.45
-2026-11-12,SK,Slovakia,96854,4,VNET a.s.,4903,5.06
-2026-11-12,SK,Slovakia,96854,5,VSHosting s.r.o.,3995,4.12
-2026-11-12,MA,Morocco,94052,1,Cloudflare,41065,43.66
-2026-11-12,MA,Morocco,94052,2,Amazon (AWS),10190,10.83
-2026-11-12,MA,Morocco,94052,3,Hostinger,4465,4.75
-2026-11-12,MA,Morocco,94052,4,OVHcloud,4413,4.69
-2026-11-12,MA,Morocco,94052,5,Google,3820,4.06
-2026-11-12,HK,Hong Kong,93576,1,Cloudflare,35559,38.00
-2026-11-12,HK,Hong Kong,93576,2,Amazon (AWS),13383,14.30
-2026-11-12,HK,Hong Kong,93576,3,Google,2872,3.07
-2026-11-12,HK,Hong Kong,93576,4,"Hangzhou Alibaba Advertising Co.,Ltd.",2805,3.00
-2026-11-12,HK,Hong Kong,93576,5,Wix,2077,2.22
-2026-11-12,DZ,Algeria,93238,1,Cloudflare,42920,46.03
-2026-11-12,DZ,Algeria,93238,2,Amazon (AWS),9447,10.13
-2026-11-12,DZ,Algeria,93238,3,OVHcloud,4200,4.50
-2026-11-12,DZ,Algeria,93238,4,Google,3695,3.96
-2026-11-12,DZ,Algeria,93238,5,Hostinger,3588,3.85
-2026-11-12,NO,Norway,91004,1,Cloudflare,33532,36.85
-2026-11-12,NO,Norway,91004,2,Amazon (AWS),12126,13.32
-2026-11-12,NO,Norway,91004,3,One.com A/S,2759,3.03
-2026-11-12,NO,Norway,91004,4,Microsoft,2646,2.91
-2026-11-12,NO,Norway,91004,5,Google,2444,2.69
-2026-11-12,BG,Bulgaria,86037,1,Cloudflare,30246,35.15
-2026-11-12,BG,Bulgaria,86037,2,SuperHosting.BG Ltd.,16279,18.92
-2026-11-12,BG,Bulgaria,86037,3,Amazon (AWS),7004,8.14
-2026-11-12,BG,Bulgaria,86037,4,Delta HighTech Ltd.,2880,3.35
-2026-11-12,BG,Bulgaria,86037,5,Hetzner,2547,2.96
-2026-11-12,BY,Belarus,82897,1,Republican Unitary Telecommunication Enterprise Beltelecom,15253,18.40
-2026-11-12,BY,Belarus,82897,2,Cloudflare,12843,15.49
-2026-11-12,BY,Belarus,82897,3,Ddos-guard Ltd,4199,5.07
-2026-11-12,BY,Belarus,82897,4,Beget LLC,3951,4.77
-2026-11-12,BY,Belarus,82897,5,Belarusian Cloud Technologies LLC,3835,4.63
-2026-11-12,VE,Venezuela,81097,1,Cloudflare,34073,42.02
-2026-11-12,VE,Venezuela,81097,2,Amazon (AWS),10512,12.96
-2026-11-12,VE,Venezuela,81097,3,Google,4149,5.12
-2026-11-12,VE,Venezuela,81097,4,Hostinger,2649,3.27
-2026-11-12,VE,Venezuela,81097,5,OVHcloud,1996,2.46
-2026-11-12,KZ,Kazakhstan,75385,1,Cloudflare,18028,23.91
-2026-11-12,KZ,Kazakhstan,75385,2,LLP Kompaniya Hoster.KZ,5195,6.89
-2026-11-12,KZ,Kazakhstan,75385,3,PS Internet Company LLP,4951,6.57
-2026-11-12,KZ,Kazakhstan,75385,4,Amazon (AWS),4153,5.51
-2026-11-12,KZ,Kazakhstan,75385,5,Beget LLC,3026,4.01
-2026-11-12,RS,Serbia,75368,1,Cloudflare,24688,32.76
-2026-11-12,RS,Serbia,75368,2,Hetzner,9204,12.21
-2026-11-12,RS,Serbia,75368,3,Amazon (AWS),6052,8.03
-2026-11-12,RS,Serbia,75368,4,United Internet Ltd.,2905,3.85
-2026-11-12,RS,Serbia,75368,5,TELEKOM SRBIJA a.d.,2015,2.67
-2026-11-12,HR,Croatia,73506,1,Cloudflare,25778,35.07
-2026-11-12,HR,Croatia,73506,2,Hetzner,7208,9.81
-2026-11-12,HR,Croatia,73506,3,Amazon (AWS),6545,8.90
-2026-11-12,HR,Croatia,73506,4,Plus Hosting Grupa d.o.o.,5112,6.95
-2026-11-12,HR,Croatia,73506,5,SETCOR d.o.o.,1663,2.26
-2026-11-12,KE,Kenya,73017,1,Cloudflare,30524,41.80
-2026-11-12,KE,Kenya,73017,2,Amazon (AWS),10966,15.02
-2026-11-12,KE,Kenya,73017,3,Google,2344,3.21
-2026-11-12,KE,Kenya,73017,4,Hostinger,2224,3.05
-2026-11-12,KE,Kenya,73017,5,Fastly,1478,2.02
-2026-11-12,CN,People's Republic of China,71957,1,Cloudflare,26903,37.39
-2026-11-12,CN,People's Republic of China,71957,2,Amazon (AWS),8030,11.16
-2026-11-12,CN,People's Republic of China,71957,3,"Hangzhou Alibaba Advertising Co.,Ltd.",5278,7.33
-2026-11-12,CN,People's Republic of China,71957,4,Fastly,1666,2.32
-2026-11-12,CN,People's Republic of China,71957,5,Shenzhen Tencent Computer Systems Company Limited,1625,2.26
-2026-11-12,EC,Ecuador,70349,1,Cloudflare,27368,38.90
-2026-11-12,EC,Ecuador,70349,2,Amazon (AWS),9152,13.01
-2026-11-12,EC,Ecuador,70349,3,Hostinger,3380,4.80
-2026-11-12,EC,Ecuador,70349,4,Google,3248,4.62
-2026-11-12,EC,Ecuador,70349,5,OVHcloud,1773,2.52
-2026-11-12,IQ,Iraq,66421,1,Cloudflare,34642,52.16
-2026-11-12,IQ,Iraq,66421,2,Amazon (AWS),6565,9.88
-2026-11-12,IQ,Iraq,66421,3,Google,2044,3.08
-2026-11-12,IQ,Iraq,66421,4,Hostinger,1948,2.93
-2026-11-12,IQ,Iraq,66421,5,OVHcloud,1334,2.01
-2026-11-12,UZ,Uzbekistan,61410,1,Cloudflare,21826,35.54
-2026-11-12,UZ,Uzbekistan,61410,2,Amazon (AWS),5479,8.92
-2026-11-12,UZ,Uzbekistan,61410,3,Beget LLC,1485,2.42
-2026-11-12,UZ,Uzbekistan,61410,4,Hetzner,1355,2.21
-2026-11-12,UZ,Uzbekistan,61410,5,Ddos-guard Ltd,1123,1.83
-2026-11-12,NP,Nepal,60980,1,Cloudflare,30826,50.55
-2026-11-12,NP,Nepal,60980,2,Amazon (AWS),7122,11.68
-2026-11-12,NP,Nepal,60980,3,Hostinger,1911,3.13
-2026-11-12,NP,Nepal,60980,4,Google,1825,2.99
-2026-11-12,NP,Nepal,60980,5,Akamai,1019,1.67
-2026-11-12,LT,Lithuania,57228,1,Cloudflare,20046,35.03
-2026-11-12,LT,Lithuania,57228,2,UAB Interneto vizija,8591,15.01
-2026-11-12,LT,Lithuania,57228,3,Hostinger,5196,9.08
-2026-11-12,LT,Lithuania,57228,4,Amazon (AWS),4428,7.74
-2026-11-12,LT,Lithuania,57228,5,Hetzner,1386,2.42
-2026-11-12,LK,Sri Lanka,56055,1,Cloudflare,26050,46.47
-2026-11-12,LK,Sri Lanka,56055,2,Amazon (AWS),7247,12.93
-2026-11-12,LK,Sri Lanka,56055,3,Google,2247,4.01
-2026-11-12,LK,Sri Lanka,56055,4,Hostinger,2213,3.95
-2026-11-12,LK,Sri Lanka,56055,5,Akamai,1069,1.91
-2026-11-12,TN,Tunisia,55045,1,Cloudflare,24677,44.83
-2026-11-12,TN,Tunisia,55045,2,Amazon (AWS),5919,10.75
-2026-11-12,TN,Tunisia,55045,3,OVHcloud,4756,8.64
-2026-11-12,TN,Tunisia,55045,4,Google,2267,4.12
-2026-11-12,TN,Tunisia,55045,5,Hostinger,1340,2.43
-2026-11-12,SI,Slovenia,47384,1,Cloudflare,14889,31.42
-2026-11-12,SI,Slovenia,47384,2,Optimus IT d.o.o.,4245,8.96
-2026-11-12,SI,Slovenia,47384,3,Amazon (AWS),4006,8.45
-2026-11-12,SI,Slovenia,47384,4,"Webtasy, d.o.o.",3639,7.68
-2026-11-12,SI,Slovenia,47384,5,Hetzner,2156,4.55
-2026-11-12,GT,Guatemala,47027,1,Cloudflare,20398,43.38
-2026-11-12,GT,Guatemala,47027,2,Amazon (AWS),6420,13.65
-2026-11-12,GT,Guatemala,47027,3,Google,1974,4.20
-2026-11-12,GT,Guatemala,47027,4,Hostinger,1511,3.21
-2026-11-12,GT,Guatemala,47027,5,Fastly,927,1.97
-2026-11-12,AZ,Azerbaijan,41509,1,Cloudflare,19211,46.28
-2026-11-12,AZ,Azerbaijan,41509,2,Amazon (AWS),3317,7.99
-2026-11-12,AZ,Azerbaijan,41509,3,Hetzner,1025,2.47
-2026-11-12,AZ,Azerbaijan,41509,4,Hostinger,896,2.16
-2026-11-12,AZ,Azerbaijan,41509,5,Google,763,1.84
-2026-11-12,DO,Dominican Republic,41482,1,Cloudflare,18420,44.40
-2026-11-12,DO,Dominican Republic,41482,2,Amazon (AWS),6069,14.63
-2026-11-12,DO,Dominican Republic,41482,3,Google,1638,3.95
-2026-11-12,DO,Dominican Republic,41482,4,Hostinger,1428,3.44
-2026-11-12,DO,Dominican Republic,41482,5,Akamai,970,2.34
-2026-11-12,CR,Costa Rica,40834,1,Cloudflare,17031,41.71
-2026-11-12,CR,Costa Rica,40834,2,Amazon (AWS),6202,15.19
-2026-11-12,CR,Costa Rica,40834,3,Google,1820,4.46
-2026-11-12,CR,Costa Rica,40834,4,Hostinger,1191,2.92
-2026-11-12,CR,Costa Rica,40834,5,Fastly,919,2.25
-2026-11-12,SY,Syria,40557,1,Cloudflare,21471,52.94
-2026-11-12,SY,Syria,40557,2,Amazon (AWS),3613,8.91
-2026-11-12,SY,Syria,40557,3,Google,1431,3.53
-2026-11-12,SY,Syria,40557,4,Hostinger,1366,3.37
-2026-11-12,SY,Syria,40557,5,Hetzner,937,2.31
-2026-11-12,JO,Jordan,39762,1,Cloudflare,20741,52.16
-2026-11-12,JO,Jordan,39762,2,Amazon (AWS),4373,11.00
-2026-11-12,JO,Jordan,39762,3,Google,1297,3.26
-2026-11-12,JO,Jordan,39762,4,Hostinger,1168,2.94
-2026-11-12,JO,Jordan,39762,5,Akamai,751,1.89
-2026-11-12,LV,Latvia,39627,1,Cloudflare,14444,36.45
-2026-11-12,LV,Latvia,39627,2,Amazon (AWS),3450,8.71
-2026-11-12,LV,Latvia,39627,3,Hetzner,1362,3.44
-2026-11-12,LV,Latvia,39627,4,LeaseWeb Netherlands B.V.,1017,2.57
-2026-11-12,LV,Latvia,39627,5,Sia Nano IT,897,2.26
-2026-11-12,BO,Bolivia,39517,1,Cloudflare,17232,43.61
-2026-11-12,BO,Bolivia,39517,2,Amazon (AWS),5167,13.08
-2026-11-12,BO,Bolivia,39517,3,Google,1622,4.10
-2026-11-12,BO,Bolivia,39517,4,Hostinger,1374,3.48
-2026-11-12,BO,Bolivia,39517,5,OVHcloud,912,2.31
-2026-11-12,EE,Estonia,39403,1,Cloudflare,11159,28.32
-2026-11-12,EE,Estonia,39403,2,Zone Media OU,7132,18.10
-2026-11-12,EE,Estonia,39403,3,Amazon (AWS),3215,8.16
-2026-11-12,EE,Estonia,39403,4,Elkdata OU,1995,5.06
-2026-11-12,EE,Estonia,39403,5,Hetzner,892,2.26
-2026-11-12,UY,Uruguay,39202,1,Cloudflare,14643,37.35
-2026-11-12,UY,Uruguay,39202,2,Amazon (AWS),5572,14.21
-2026-11-12,UY,Uruguay,39202,3,Hostinger,1531,3.91
-2026-11-12,UY,Uruguay,39202,4,Google,1490,3.80
-2026-11-12,UY,Uruguay,39202,5,Administracion Nacional de Telecomunicaciones,1413,3.60
-2026-11-12,QA,Qatar,36601,1,Cloudflare,18281,49.95
-2026-11-12,QA,Qatar,36601,2,Amazon (AWS),4620,12.62
-2026-11-12,QA,Qatar,36601,3,Google,1344,3.67
-2026-11-12,QA,Qatar,36601,4,Hostinger,1008,2.75
-2026-11-12,QA,Qatar,36601,5,Akamai,904,2.47
-2026-11-12,GH,Ghana,35769,1,Cloudflare,15203,42.50
-2026-11-12,GH,Ghana,35769,2,Amazon (AWS),5691,15.91
-2026-11-12,GH,Ghana,35769,3,Hostinger,1379,3.86
-2026-11-12,GH,Ghana,35769,4,Google,1185,3.31
-2026-11-12,GH,Ghana,35769,5,Fastly,876,2.45
-2026-11-12,MM,Myanmar,35305,1,Cloudflare,18376,52.05
-2026-11-12,MM,Myanmar,35305,2,Amazon (AWS),3839,10.87
-2026-11-12,MM,Myanmar,35305,3,Google,1110,3.14
-2026-11-12,MM,Myanmar,35305,4,ACE,704,1.99
-2026-11-12,MM,Myanmar,35305,5,Akamai,609,1.72
-2026-11-12,GE,Georgia,34953,1,Cloudflare,13661,39.08
-2026-11-12,GE,Georgia,34953,2,Amazon (AWS),3379,9.67
-2026-11-12,GE,Georgia,34953,3,Proservice LLC,1195,3.42
-2026-11-12,GE,Georgia,34953,4,Hetzner,824,2.36
-2026-11-12,GE,Georgia,34953,5,Google,738,2.11
-2026-11-12,ET,Ethiopia,33378,1,Cloudflare,15908,47.66
-2026-11-12,ET,Ethiopia,33378,2,Amazon (AWS),4615,13.83
-2026-11-12,ET,Ethiopia,33378,3,Google,1032,3.09
-2026-11-12,ET,Ethiopia,33378,4,Hostinger,694,2.08
-2026-11-12,ET,Ethiopia,33378,5,Fastly,678,2.03
-2026-11-12,CY,Cyprus,32707,1,Cloudflare,15043,45.99
-2026-11-12,CY,Cyprus,32707,2,Amazon (AWS),3669,11.22
-2026-11-12,CY,Cyprus,32707,3,Hetzner,1454,4.45
-2026-11-12,CY,Cyprus,32707,4,Akamai,814,2.49
-2026-11-12,CY,Cyprus,32707,5,Google,773,2.36
-2026-11-12,BA,Bosnia and Herzegovina,32680,1,Cloudflare,12227,37.41
-2026-11-12,BA,Bosnia and Herzegovina,32680,2,Hetzner,3888,11.90
-2026-11-12,BA,Bosnia and Herzegovina,32680,3,Amazon (AWS),2816,8.62
-2026-11-12,BA,Bosnia and Herzegovina,32680,4,Globalhost d.o.o.,1318,4.03
-2026-11-12,BA,Bosnia and Herzegovina,32680,5,Plus Hosting Grupa d.o.o.,659,2.02
-2026-11-12,MD,Moldova,32651,1,Cloudflare,10803,33.09
-2026-11-12,MD,Moldova,32651,2,Amazon (AWS),2387,7.31
-2026-11-12,MD,Moldova,32651,3,Hetzner,1025,3.14
-2026-11-12,MD,Moldova,32651,4,It Concept Srl,748,2.29
-2026-11-12,MD,Moldova,32651,5,Ddos-guard Ltd,712,2.18
-2026-11-12,PY,Paraguay,31734,1,Cloudflare,13930,43.90
-2026-11-12,PY,Paraguay,31734,2,Amazon (AWS),4307,13.57
-2026-11-12,PY,Paraguay,31734,3,Google,1155,3.64
-2026-11-12,PY,Paraguay,31734,4,Hostinger,975,3.07
-2026-11-12,PY,Paraguay,31734,5,OVHcloud,894,2.82
-2026-11-12,OM,Oman,31124,1,Cloudflare,15648,50.28
-2026-11-12,OM,Oman,31124,2,Amazon (AWS),3637,11.69
-2026-11-12,OM,Oman,31124,3,Google,1147,3.69
-2026-11-12,OM,Oman,31124,4,Hostinger,950,3.05
-2026-11-12,OM,Oman,31124,5,Akamai,669,2.15
-2026-11-12,SV,El Salvador,31026,1,Cloudflare,14086,45.40
-2026-11-12,SV,El Salvador,31026,2,Amazon (AWS),4424,14.26
-2026-11-12,SV,El Salvador,31026,3,Google,1191,3.84
-2026-11-12,SV,El Salvador,31026,4,Hostinger,910,2.93
-2026-11-12,SV,El Salvador,31026,5,Fastly,696,2.24
-2026-11-12,PA,Panama,30642,1,Cloudflare,13314,43.45
-2026-11-12,PA,Panama,30642,2,Amazon (AWS),4518,14.74
-2026-11-12,PA,Panama,30642,3,Google,1252,4.09
-2026-11-12,PA,Panama,30642,4,Hostinger,936,3.05
-2026-11-12,PA,Panama,30642,5,Akamai,745,2.43
-2026-11-12,CI,Ivory Coast,30517,1,Cloudflare,12991,42.57
-2026-11-12,CI,Ivory Coast,30517,2,Amazon (AWS),3764,12.33
-2026-11-12,CI,Ivory Coast,30517,3,OVHcloud,1678,5.50
-2026-11-12,CI,Ivory Coast,30517,4,Google,1154,3.78
-2026-11-12,CI,Ivory Coast,30517,5,Hostinger,1010,3.31
-2026-11-12,TZ,Tanzania,29807,1,Cloudflare,13614,45.67
-2026-11-12,TZ,Tanzania,29807,2,Amazon (AWS),3686,12.37
-2026-11-12,TZ,Tanzania,29807,3,Google,1213,4.07
-2026-11-12,TZ,Tanzania,29807,4,Hostinger,892,2.99
-2026-11-12,TZ,Tanzania,29807,5,DigitalOcean,713,2.39
-2026-11-12,PR,Puerto Rico,28896,1,Cloudflare,13049,45.16
-2026-11-12,PR,Puerto Rico,28896,2,Amazon (AWS),4888,16.92
-2026-11-12,PR,Puerto Rico,28896,3,Google,918,3.18
-2026-11-12,PR,Puerto Rico,28896,4,Akamai,904,3.13
-2026-11-12,PR,Puerto Rico,28896,5,Fastly,837,2.90
-2026-11-12,KH,Cambodia,28697,1,Cloudflare,14880,51.85
-2026-11-12,KH,Cambodia,28697,2,Amazon (AWS),3499,12.19
-2026-11-12,KH,Cambodia,28697,3,Google,887,3.09
-2026-11-12,KH,Cambodia,28697,4,DigitalOcean,593,2.07
-2026-11-12,KH,Cambodia,28697,5,Akamai,556,1.94
-2026-11-12,UG,Uganda,28656,1,Cloudflare,12731,44.43
-2026-11-12,UG,Uganda,28656,2,Amazon (AWS),3954,13.80
-2026-11-12,UG,Uganda,28656,3,Hostinger,1046,3.65
-2026-11-12,UG,Uganda,28656,4,Google,878,3.06
-2026-11-12,UG,Uganda,28656,5,Fastly,606,2.11
-2026-11-12,KG,Kyrgyzstan,28631,1,Cloudflare,9305,32.50
-2026-11-12,KG,Kyrgyzstan,28631,2,Amazon (AWS),1847,6.45
-2026-11-12,KG,Kyrgyzstan,28631,3,Beget LLC,991,3.46
-2026-11-12,KG,Kyrgyzstan,28631,4,Ddos-guard Ltd,792,2.77
-2026-11-12,KG,Kyrgyzstan,28631,5,JSC Selectel,780,2.72
-2026-11-12,KW,Kuwait,28217,1,Cloudflare,15008,53.19
-2026-11-12,KW,Kuwait,28217,2,Amazon (AWS),3510,12.44
-2026-11-12,KW,Kuwait,28217,3,Google,946,3.35
-2026-11-12,KW,Kuwait,28217,4,Hostinger,833,2.95
-2026-11-12,KW,Kuwait,28217,5,Akamai,688,2.44
-2026-11-12,HN,Honduras,27717,1,Cloudflare,12677,45.74
-2026-11-12,HN,Honduras,27717,2,Amazon (AWS),3938,14.21
-2026-11-12,HN,Honduras,27717,3,Google,1099,3.97
-2026-11-12,HN,Honduras,27717,4,Hostinger,754,2.72
-2026-11-12,HN,Honduras,27717,5,Akamai,621,2.24
-2026-11-12,LB,Lebanon,27237,1,Cloudflare,14368,52.75
-2026-11-12,LB,Lebanon,27237,2,Amazon (AWS),3260,11.97
-2026-11-12,LB,Lebanon,27237,3,Google,777,2.85
-2026-11-12,LB,Lebanon,27237,4,Hostinger,662,2.43
-2026-11-12,LB,Lebanon,27237,5,Akamai,574,2.11
-2026-11-12,LY,Libya,25139,1,Cloudflare,13956,55.52
-2026-11-12,LY,Libya,25139,2,Amazon (AWS),2228,8.86
-2026-11-12,LY,Libya,25139,3,Google,913,3.63
-2026-11-12,LY,Libya,25139,4,Hetzner,641,2.55
-2026-11-12,LY,Libya,25139,5,Hostinger,608,2.42
-2026-11-12,YE,Yemen,23320,1,Cloudflare,12662,54.30
-2026-11-12,YE,Yemen,23320,2,Amazon (AWS),2084,8.94
-2026-11-12,YE,Yemen,23320,3,Google,997,4.28
-2026-11-12,YE,Yemen,23320,4,Hostinger,906,3.89
-2026-11-12,YE,Yemen,23320,5,Hetzner,427,1.83
-2026-11-12,AM,Armenia,22826,1,Cloudflare,8301,36.37
-2026-11-12,AM,Armenia,22826,2,Amazon (AWS),1951,8.55
-2026-11-12,AM,Armenia,22826,3,Ddos-guard Ltd,516,2.26
-2026-11-12,AM,Armenia,22826,4,Hetzner,510,2.23
-2026-11-12,AM,Armenia,22826,5,OVHcloud,467,2.05
-2026-11-12,NI,Nicaragua,22452,1,Cloudflare,10366,46.17
-2026-11-12,NI,Nicaragua,22452,2,Amazon (AWS),3123,13.91
-2026-11-12,NI,Nicaragua,22452,3,Google,934,4.16
-2026-11-12,NI,Nicaragua,22452,4,Hostinger,674,3.00
-2026-11-12,NI,Nicaragua,22452,5,Fastly,476,2.12
-2026-11-12,CM,Cameroon,21632,1,Cloudflare,9186,42.46
-2026-11-12,CM,Cameroon,21632,2,Amazon (AWS),2916,13.48
-2026-11-12,CM,Cameroon,21632,3,OVHcloud,900,4.16
-2026-11-12,CM,Cameroon,21632,4,Hostinger,801,3.70
-2026-11-12,CM,Cameroon,21632,5,Google,715,3.31
-2026-11-12,SN,Senegal,21163,1,Cloudflare,8832,41.73
-2026-11-12,SN,Senegal,21163,2,Amazon (AWS),2669,12.61
-2026-11-12,SN,Senegal,21163,3,OVHcloud,1139,5.38
-2026-11-12,SN,Senegal,21163,4,Google,689,3.26
-2026-11-12,SN,Senegal,21163,5,Hostinger,651,3.08
-2026-11-12,AL,Albania,20733,1,Cloudflare,9430,45.48
-2026-11-12,AL,Albania,20733,2,Amazon (AWS),2621,12.64
-2026-11-12,AL,Albania,20733,3,Akamai,656,3.16
-2026-11-12,AL,Albania,20733,4,Hetzner,598,2.88
-2026-11-12,AL,Albania,20733,5,Google,533,2.57
-2026-11-12,CD,Democratic Republic of the Congo,19966,1,Cloudflare,8699,43.57
-2026-11-12,CD,Democratic Republic of the Congo,19966,2,Amazon (AWS),2554,12.79
-2026-11-12,CD,Democratic Republic of the Congo,19966,3,OVHcloud,774,3.88
-2026-11-12,CD,Democratic Republic of the Congo,19966,4,Hostinger,698,3.50
-2026-11-12,CD,Democratic Republic of the Congo,19966,5,Google,640,3.21
-2026-11-12,MK,North Macedonia,19195,1,Cloudflare,7949,41.41
-2026-11-12,MK,North Macedonia,19195,2,Amazon (AWS),2045,10.65
-2026-11-12,MK,North Macedonia,19195,3,Hetzner,1822,9.49
-2026-11-12,MK,North Macedonia,19195,4,Akamai,472,2.46
-2026-11-12,MK,North Macedonia,19195,5,Google,426,2.22
-2026-11-12,ZW,Zimbabwe,19150,1,Cloudflare,8597,44.89
-2026-11-12,ZW,Zimbabwe,19150,2,Amazon (AWS),2774,14.49
-2026-11-12,ZW,Zimbabwe,19150,3,Google,636,3.32
-2026-11-12,ZW,Zimbabwe,19150,4,Fastly,439,2.29
-2026-11-12,ZW,Zimbabwe,19150,5,Akamai,436,2.28
-2026-11-12,JM,Jamaica,18602,1,Cloudflare,8997,48.37
-2026-11-12,JM,Jamaica,18602,2,Amazon (AWS),2981,16.03
-2026-11-12,JM,Jamaica,18602,3,Google,593,3.19
-2026-11-12,JM,Jamaica,18602,4,Akamai,585,3.14
-2026-11-12,JM,Jamaica,18602,5,Fastly,524,2.82
-2026-11-12,ZM,Zambia,18508,1,Cloudflare,8664,46.81
-2026-11-12,ZM,Zambia,18508,2,Amazon (AWS),2617,14.14
-2026-11-12,ZM,Zambia,18508,3,Google,566,3.06
-2026-11-12,ZM,Zambia,18508,4,DigitalOcean,475,2.57
-2026-11-12,ZM,Zambia,18508,5,Hostinger,455,2.46
-2026-11-12,MT,Malta,17879,1,Cloudflare,7938,44.40
-2026-11-12,MT,Malta,17879,2,Amazon (AWS),2813,15.73
-2026-11-12,MT,Malta,17879,3,Google,616,3.45
-2026-11-12,MT,Malta,17879,4,Akamai,610,3.41
-2026-11-12,MT,Malta,17879,5,Fastly,467,2.61
-2026-11-12,AO,Angola,17291,1,Cloudflare,8226,47.57
-2026-11-12,AO,Angola,17291,2,Amazon (AWS),2274,13.15
-2026-11-12,AO,Angola,17291,3,Google,604,3.49
-2026-11-12,AO,Angola,17291,4,Hostinger,548,3.17
-2026-11-12,AO,Angola,17291,5,Akamai,385,2.23
-2026-11-12,SD,Sudan,17207,1,Cloudflare,8637,50.19
-2026-11-12,SD,Sudan,17207,2,Amazon (AWS),1516,8.81
-2026-11-12,SD,Sudan,17207,3,Google,802,4.66
-2026-11-12,SD,Sudan,17207,4,Hostinger,728,4.23
-2026-11-12,SD,Sudan,17207,5,Hetzner,408,2.37
-2026-11-12,BH,Bahrain,17177,1,Cloudflare,9106,53.01
-2026-11-12,BH,Bahrain,17177,2,Amazon (AWS),2281,13.28
-2026-11-12,BH,Bahrain,17177,3,Google,529,3.08
-2026-11-12,BH,Bahrain,17177,4,Akamai,449,2.61
-2026-11-12,BH,Bahrain,17177,5,Fastly,354,2.06
-2026-11-12,LA,Laos,16747,1,Cloudflare,9191,54.88
-2026-11-12,LA,Laos,16747,2,Amazon (AWS),1794,10.71
-2026-11-12,LA,Laos,16747,3,Google,545,3.25
-2026-11-12,LA,Laos,16747,4,Akamai,282,1.68
-2026-11-12,LA,Laos,16747,5,Fastly,238,1.42
-2026-11-12,PS,Palestine,16483,1,Cloudflare,8798,53.38
-2026-11-12,PS,Palestine,16483,2,Amazon (AWS),1742,10.57
-2026-11-12,PS,Palestine,16483,3,Google,560,3.40
-2026-11-12,PS,Palestine,16483,4,Hetzner,439,2.66
-2026-11-12,PS,Palestine,16483,5,Hostinger,411,2.49
-2026-11-12,RE,Réunion,16470,1,Cloudflare,5980,36.31
-2026-11-12,RE,Réunion,16470,2,OVHcloud,2526,15.34
-2026-11-12,RE,Réunion,16470,3,Amazon (AWS),1713,10.40
-2026-11-12,RE,Réunion,16470,4,o2switch,438,2.66
-2026-11-12,RE,Réunion,16470,5,Google,409,2.48
-2026-11-12,TT,Trinidad and Tobago,16379,1,Cloudflare,7948,48.53
-2026-11-12,TT,Trinidad and Tobago,16379,2,Amazon (AWS),2466,15.06
-2026-11-12,TT,Trinidad and Tobago,16379,3,Google,577,3.52
-2026-11-12,TT,Trinidad and Tobago,16379,4,Akamai,508,3.10
-2026-11-12,TT,Trinidad and Tobago,16379,5,Fastly,492,3.00
-2026-11-12,AF,Afghanistan,16105,1,Cloudflare,6653,41.31
-2026-11-12,AF,Afghanistan,16105,2,Amazon (AWS),1455,9.03
-2026-11-12,AF,Afghanistan,16105,3,OVHcloud,485,3.01
-2026-11-12,AF,Afghanistan,16105,4,Hostiserver Ltd,438,2.72
-2026-11-12,AF,Afghanistan,16105,5,Hetzner,357,2.22
-2026-11-12,LU,Luxembourg,15727,1,Cloudflare,5235,33.29
-2026-11-12,LU,Luxembourg,15727,2,Amazon (AWS),2365,15.04
-2026-11-12,LU,Luxembourg,15727,3,OVHcloud,786,5.00
-2026-11-12,LU,Luxembourg,15727,4,Akamai,606,3.85
-2026-11-12,LU,Luxembourg,15727,5,Hetzner,556,3.54
-2026-11-12,MZ,Mozambique,15036,1,Cloudflare,7157,47.60
-2026-11-12,MZ,Mozambique,15036,2,Amazon (AWS),1951,12.98
-2026-11-12,MZ,Mozambique,15036,3,Google,574,3.82
-2026-11-12,MZ,Mozambique,15036,4,DigitalOcean,420,2.79
-2026-11-12,MZ,Mozambique,15036,5,Hostinger,418,2.78
-2026-11-12,MG,Madagascar,14765,1,Cloudflare,6781,45.93
-2026-11-12,MG,Madagascar,14765,2,Amazon (AWS),1962,13.29
-2026-11-12,MG,Madagascar,14765,3,OVHcloud,729,4.94
-2026-11-12,MG,Madagascar,14765,4,Google,470,3.18
-2026-11-12,MG,Madagascar,14765,5,Akamai,301,2.04
-2026-11-12,CU,Cuba,14445,1,Cloudflare,6568,45.47
-2026-11-12,CU,Cuba,14445,2,Amazon (AWS),1838,12.72
-2026-11-12,CU,Cuba,14445,3,Hostinger,503,3.48
-2026-11-12,CU,Cuba,14445,4,Google,454,3.14
-2026-11-12,CU,Cuba,14445,5,OVHcloud,371,2.57
-2026-11-12,MN,Mongolia,14144,1,Cloudflare,6046,42.75
-2026-11-12,MN,Mongolia,14144,2,Amazon (AWS),1983,14.02
-2026-11-12,MN,Mongolia,14144,3,Google,410,2.90
-2026-11-12,MN,Mongolia,14144,4,DigitalOcean,361,2.55
-2026-11-12,MN,Mongolia,14144,5,Akamai,330,2.33
-2026-11-12,MU,Mauritius,13698,1,Cloudflare,6622,48.34
-2026-11-12,MU,Mauritius,13698,2,Amazon (AWS),1879,13.72
-2026-11-12,MU,Mauritius,13698,3,Akamai,412,3.01
-2026-11-12,MU,Mauritius,13698,4,Google,400,2.92
-2026-11-12,MU,Mauritius,13698,5,OVHcloud,324,2.37
-2026-11-12,TJ,Tajikistan,13465,1,Cloudflare,4181,31.05
-2026-11-12,TJ,Tajikistan,13465,2,Amazon (AWS),741,5.50
-2026-11-12,TJ,Tajikistan,13465,3,JSC Selectel,386,2.87
-2026-11-12,TJ,Tajikistan,13465,4,Beget LLC,351,2.61
-2026-11-12,TJ,Tajikistan,13465,5,Ddos-guard Ltd,344,2.55
-2026-11-12,BF,Burkina Faso,12954,1,Cloudflare,5335,41.18
-2026-11-12,BF,Burkina Faso,12954,2,Amazon (AWS),1633,12.61
-2026-11-12,BF,Burkina Faso,12954,3,Google,1058,8.17
-2026-11-12,BF,Burkina Faso,12954,4,OVHcloud,555,4.28
-2026-11-12,BF,Burkina Faso,12954,5,Hostinger,340,2.62
-2026-11-12,SO,Somalia,12867,1,Cloudflare,6729,52.30
-2026-11-12,SO,Somalia,12867,2,Amazon (AWS),1533,11.91
-2026-11-12,SO,Somalia,12867,3,Google,412,3.20
-2026-11-12,SO,Somalia,12867,4,Hostinger,287,2.23
-2026-11-12,SO,Somalia,12867,5,Fastly,274,2.13
-2026-11-12,ME,Montenegro,12711,1,Cloudflare,4745,37.33
-2026-11-12,ME,Montenegro,12711,2,Amazon (AWS),1236,9.72
-2026-11-12,ME,Montenegro,12711,3,Hetzner,1149,9.04
-2026-11-12,ME,Montenegro,12711,4,United Internet Ltd.,341,2.68
-2026-11-12,ME,Montenegro,12711,5,Akamai,327,2.57
-2026-11-12,BJ,Benin,12515,1,Cloudflare,5212,41.65
-2026-11-12,BJ,Benin,12515,2,Amazon (AWS),1817,14.52
-2026-11-12,BJ,Benin,12515,3,OVHcloud,600,4.79
-2026-11-12,BJ,Benin,12515,4,Hostinger,433,3.46
-2026-11-12,BJ,Benin,12515,5,Google,401,3.20
-2026-11-12,IS,Iceland,12181,1,Cloudflare,4637,38.07
-2026-11-12,IS,Iceland,12181,2,Amazon (AWS),2368,19.44
-2026-11-12,IS,Iceland,12181,3,Akamai,372,3.05
-2026-11-12,IS,Iceland,12181,4,1984 ehf,364,2.99
-2026-11-12,IS,Iceland,12181,5,Fastly,336,2.76
-2026-11-12,RW,Rwanda,11650,1,Cloudflare,4877,41.86
-2026-11-12,RW,Rwanda,11650,2,Amazon (AWS),1857,15.94
-2026-11-12,RW,Rwanda,11650,3,Google,362,3.11
-2026-11-12,RW,Rwanda,11650,4,DigitalOcean,347,2.98
-2026-11-12,RW,Rwanda,11650,5,KT RWANDA NETWORK Ltd,306,2.63
-2026-11-12,TM,Turkmenistan,11178,1,Cloudflare,3488,31.20
-2026-11-12,TM,Turkmenistan,11178,2,Amazon (AWS),600,5.37
-2026-11-12,TM,Turkmenistan,11178,3,State Company of Electro Communications Turkmentelecom,316,2.83
-2026-11-12,TM,Turkmenistan,11178,4,OVHcloud,250,2.24
-2026-11-12,TM,Turkmenistan,11178,5,JSC Selectel,226,2.02
-2026-11-12,PG,Papua New Guinea,10560,1,Cloudflare,4952,46.89
-2026-11-12,PG,Papua New Guinea,10560,2,Amazon (AWS),1423,13.48
-2026-11-12,PG,Papua New Guinea,10560,3,"Alibaba (US) Technology Co., Ltd.",443,4.20
-2026-11-12,PG,Papua New Guinea,10560,4,Google,338,3.20
-2026-11-12,PG,Papua New Guinea,10560,5,Hostinger,274,2.59
-2026-11-12,ML,Mali,9944,1,Cloudflare,4048,40.71
-2026-11-12,ML,Mali,9944,2,Amazon (AWS),1134,11.40
-2026-11-12,ML,Mali,9944,3,Google,919,9.24
-2026-11-12,ML,Mali,9944,4,OVHcloud,404,4.06
-2026-11-12,ML,Mali,9944,5,DigitalOcean,293,2.95
-2026-11-12,MW,Malawi,9928,1,Cloudflare,4458,44.90
-2026-11-12,MW,Malawi,9928,2,Amazon (AWS),1478,14.89
-2026-11-12,MW,Malawi,9928,3,DigitalOcean,331,3.33
-2026-11-12,MW,Malawi,9928,4,Google,325,3.27
-2026-11-12,MW,Malawi,9928,5,Fastly,265,2.67
-2026-11-12,TG,Togo,9740,1,Cloudflare,4269,43.83
-2026-11-12,TG,Togo,9740,2,Amazon (AWS),1319,13.54
-2026-11-12,TG,Togo,9740,3,OVHcloud,398,4.09
-2026-11-12,TG,Togo,9740,4,Google,299,3.07
-2026-11-12,TG,Togo,9740,5,Hostinger,264,2.71
-2026-11-12,BW,Botswana,9345,1,Cloudflare,4355,46.60
-2026-11-12,BW,Botswana,9345,2,Amazon (AWS),1460,15.62
-2026-11-12,BW,Botswana,9345,3,Google,313,3.35
-2026-11-12,BW,Botswana,9345,4,Fastly,266,2.85
-2026-11-12,BW,Botswana,9345,5,Akamai,251,2.69
-2026-11-12,MV,Maldives,9305,1,Cloudflare,4736,50.90
-2026-11-12,MV,Maldives,9305,2,Amazon (AWS),1207,12.97
-2026-11-12,MV,Maldives,9305,3,Google,320,3.44
-2026-11-12,MV,Maldives,9305,4,Akamai,274,2.94
-2026-11-12,MV,Maldives,9305,5,Serverel Inc.,202,2.17
-2026-11-12,HT,Haiti,9022,1,Cloudflare,3901,43.24
-2026-11-12,HT,Haiti,9022,2,Amazon (AWS),1336,14.81
-2026-11-12,HT,Haiti,9022,3,Google,326,3.61
-2026-11-12,HT,Haiti,9022,4,OVHcloud,285,3.16
-2026-11-12,HT,Haiti,9022,5,Hostinger,271,3.00
-2026-11-12,MQ,Martinique,8939,1,Cloudflare,3190,35.69
-2026-11-12,MQ,Martinique,8939,2,OVHcloud,1236,13.83
-2026-11-12,MQ,Martinique,8939,3,Amazon (AWS),1026,11.48
-2026-11-12,MQ,Martinique,8939,4,Google,240,2.68
-2026-11-12,MQ,Martinique,8939,5,Akamai,203,2.27
-2026-11-12,GA,Gabon,8836,1,Cloudflare,4208,47.62
-2026-11-12,GA,Gabon,8836,2,Amazon (AWS),924,10.46
-2026-11-12,GA,Gabon,8836,3,Google,399,4.52
-2026-11-12,GA,Gabon,8836,4,OVHcloud,362,4.10
-2026-11-12,GA,Gabon,8836,5,Akamai,189,2.14
-2026-11-12,GP,Guadeloupe,8790,1,Cloudflare,3120,35.49
-2026-11-12,GP,Guadeloupe,8790,2,OVHcloud,1152,13.11
-2026-11-12,GP,Guadeloupe,8790,3,Amazon (AWS),1054,11.99
-2026-11-12,GP,Guadeloupe,8790,4,Google,239,2.72
-2026-11-12,GP,Guadeloupe,8790,5,Akamai,192,2.18
-2026-11-12,NA,Namibia,8649,1,Cloudflare,3775,43.65
-2026-11-12,NA,Namibia,8649,2,Amazon (AWS),1350,15.61
-2026-11-12,NA,Namibia,8649,3,Google,257,2.97
-2026-11-12,NA,Namibia,8649,4,Xneelo (Pty) Ltd,247,2.86
-2026-11-12,NA,Namibia,8649,5,Fastly,246,2.84
-2026-11-12,GN,Guinea,8201,1,Cloudflare,3616,44.09
-2026-11-12,GN,Guinea,8201,2,Amazon (AWS),1041,12.69
-2026-11-12,GN,Guinea,8201,3,Google,464,5.66
-2026-11-12,GN,Guinea,8201,4,OVHcloud,272,3.32
-2026-11-12,GN,Guinea,8201,5,Hostinger,231,2.82
-2026-11-12,BN,Brunei,7506,1,Cloudflare,3824,50.95
-2026-11-12,BN,Brunei,7506,2,Amazon (AWS),1034,13.78
-2026-11-12,BN,Brunei,7506,3,Google,256,3.41
-2026-11-12,BN,Brunei,7506,4,Akamai,205,2.73
-2026-11-12,BN,Brunei,7506,5,Fastly,197,2.62
-2026-11-12,GY,Guyana,7406,1,Cloudflare,3558,48.04
-2026-11-12,GY,Guyana,7406,2,Amazon (AWS),1151,15.54
-2026-11-12,GY,Guyana,7406,3,Akamai,283,3.82
-2026-11-12,GY,Guyana,7406,4,Fastly,239,3.23
-2026-11-12,GY,Guyana,7406,5,Google,230,3.11
-2026-11-12,CG,Republic of the Congo,7006,1,Cloudflare,3124,44.59
-2026-11-12,CG,Republic of the Congo,7006,2,Amazon (AWS),950,13.56
-2026-11-12,CG,Republic of the Congo,7006,3,OVHcloud,316,4.51
-2026-11-12,CG,Republic of the Congo,7006,4,Google,220,3.14
-2026-11-12,CG,Republic of the Congo,7006,5,Akamai,161,2.30
-2026-11-12,MR,Mauritania,6137,1,Cloudflare,3247,52.91
-2026-11-12,MR,Mauritania,6137,2,Amazon (AWS),615,10.02
-2026-11-12,MR,Mauritania,6137,3,Google,203,3.31
-2026-11-12,MR,Mauritania,6137,4,OVHcloud,139,2.26
-2026-11-12,MR,Mauritania,6137,5,Hostinger,122,1.99
-2026-11-12,MO,Macau,5941,1,Cloudflare,2138,35.99
-2026-11-12,MO,Macau,5941,2,Amazon (AWS),842,14.17
-2026-11-12,MO,Macau,5941,3,Akamai,219,3.69
-2026-11-12,MO,Macau,5941,4,Google,198,3.33
-2026-11-12,MO,Macau,5941,5,"Hangzhou Alibaba Advertising Co.,Ltd.",181,3.05
-2026-11-12,XK,Kosovo,5875,1,Cloudflare,2928,49.84
-2026-11-12,XK,Kosovo,5875,2,Amazon (AWS),631,10.74
-2026-11-12,XK,Kosovo,5875,3,Hetzner,249,4.24
-2026-11-12,XK,Kosovo,5875,4,Google,159,2.71
-2026-11-12,XK,Kosovo,5875,5,Akamai,140,2.38
-2026-11-12,TD,Chad,5736,1,Cloudflare,2493,43.46
-2026-11-12,TD,Chad,5736,2,Google,619,10.79
-2026-11-12,TD,Chad,5736,3,Amazon (AWS),599,10.44
-2026-11-12,TD,Chad,5736,4,OVHcloud,151,2.63
-2026-11-12,TD,Chad,5736,5,Hostinger,129,2.25
-2026-11-12,NE,Niger,5707,1,Cloudflare,2431,42.60
-2026-11-12,NE,Niger,5707,2,Amazon (AWS),690,12.09
-2026-11-12,NE,Niger,5707,3,Google,421,7.38
-2026-11-12,NE,Niger,5707,4,OVHcloud,189,3.31
-2026-11-12,NE,Niger,5707,5,DigitalOcean,142,2.49
-2026-11-12,BS,The Bahamas,5464,1,Cloudflare,2198,40.23
-2026-11-12,BS,The Bahamas,5464,2,Amazon (AWS),1037,18.98
-2026-11-12,BS,The Bahamas,5464,3,Akamai,321,5.87
-2026-11-12,BS,The Bahamas,5464,4,Fastly,284,5.20
-2026-11-12,BS,The Bahamas,5464,5,Google,196,3.59
-2026-11-12,FJ,Fiji,5452,1,Cloudflare,2505,45.95
-2026-11-12,FJ,Fiji,5452,2,Amazon (AWS),847,15.54
-2026-11-12,FJ,Fiji,5452,3,Akamai,196,3.60
-2026-11-12,FJ,Fiji,5452,4,Fastly,171,3.14
-2026-11-12,FJ,Fiji,5452,5,Google,160,2.93
-2026-11-12,BB,Barbados,5195,1,Cloudflare,2183,42.02
-2026-11-12,BB,Barbados,5195,2,Amazon (AWS),975,18.77
-2026-11-12,BB,Barbados,5195,3,Akamai,267,5.14
-2026-11-12,BB,Barbados,5195,4,Fastly,243,4.68
-2026-11-12,BB,Barbados,5195,5,Google,176,3.39
-2026-11-12,SR,Suriname,5100,1,Cloudflare,2271,44.53
-2026-11-12,SR,Suriname,5100,2,Amazon (AWS),687,13.47
-2026-11-12,SR,Suriname,5100,3,Akamai,213,4.18
-2026-11-12,SR,Suriname,5100,4,Google,158,3.10
-2026-11-12,SR,Suriname,5100,5,Fastly,147,2.88
-2026-11-12,BT,Bhutan,4671,1,Cloudflare,2224,47.61
-2026-11-12,BT,Bhutan,4671,2,Amazon (AWS),677,14.49
-2026-11-12,BT,Bhutan,4671,3,Google,153,3.28
-2026-11-12,BT,Bhutan,4671,4,Akamai,140,3.00
-2026-11-12,BT,Bhutan,4671,5,Fastly,122,2.61
-2026-11-12,SZ,Eswatini,4490,1,Cloudflare,2021,45.01
-2026-11-12,SZ,Eswatini,4490,2,Amazon (AWS),646,14.39
-2026-11-12,SZ,Eswatini,4490,3,Google,177,3.94
-2026-11-12,SZ,Eswatini,4490,4,Fastly,153,3.41
-2026-11-12,SZ,Eswatini,4490,5,Akamai,125,2.78
-2026-11-12,BZ,Belize,4397,1,Cloudflare,1996,45.39
-2026-11-12,BZ,Belize,4397,2,Amazon (AWS),693,15.76
-2026-11-12,BZ,Belize,4397,3,Akamai,192,4.37
-2026-11-12,BZ,Belize,4397,4,Fastly,178,4.05
-2026-11-12,BZ,Belize,4397,5,Google,150,3.41
-2026-11-12,SL,Sierra Leone,4328,1,Cloudflare,1941,44.85
-2026-11-12,SL,Sierra Leone,4328,2,Amazon (AWS),709,16.38
-2026-11-12,SL,Sierra Leone,4328,3,Google,158,3.65
-2026-11-12,SL,Sierra Leone,4328,4,Akamai,146,3.37
-2026-11-12,SL,Sierra Leone,4328,5,Fastly,130,3.00
-2026-11-12,LR,Liberia,4300,1,Cloudflare,1854,43.12
-2026-11-12,LR,Liberia,4300,2,Amazon (AWS),691,16.07
-2026-11-12,LR,Liberia,4300,3,DigitalOcean,172,4.00
-2026-11-12,LR,Liberia,4300,4,Google,146,3.40
-2026-11-12,LR,Liberia,4300,5,Akamai,142,3.30
-2026-11-12,PF,French Polynesia,4180,1,Cloudflare,1663,39.78
-2026-11-12,PF,French Polynesia,4180,2,Amazon (AWS),549,13.13
-2026-11-12,PF,French Polynesia,4180,3,OVHcloud,307,7.34
-2026-11-12,PF,French Polynesia,4180,4,Akamai,133,3.18
-2026-11-12,PF,French Polynesia,4180,5,Google,123,2.94
-2026-11-12,TL,East Timor,4091,1,Cloudflare,2140,52.31
-2026-11-12,TL,East Timor,4091,2,Amazon (AWS),421,10.29
-2026-11-12,TL,East Timor,4091,3,Google,138,3.37
-2026-11-12,TL,East Timor,4091,4,"Servers.com, Inc.",89,2.18
-2026-11-12,TL,East Timor,4091,5,DigitalOcean,80,1.96
-2026-11-12,CV,Cape Verde,3821,1,Cloudflare,1616,42.29
-2026-11-12,CV,Cape Verde,3821,2,Amazon (AWS),617,16.15
-2026-11-12,CV,Cape Verde,3821,3,Akamai,157,4.11
-2026-11-12,CV,Cape Verde,3821,4,Google,131,3.43
-2026-11-12,CV,Cape Verde,3821,5,Fastly,110,2.88
-2026-11-12,GF,French Guiana,3786,1,Cloudflare,1435,37.90
-2026-11-12,GF,French Guiana,3786,2,Amazon (AWS),485,12.81
-2026-11-12,GF,French Guiana,3786,3,OVHcloud,355,9.38
-2026-11-12,GF,French Guiana,3786,4,Google,123,3.25
-2026-11-12,GF,French Guiana,3786,5,Akamai,108,2.85
-2026-11-12,LS,Lesotho,3726,1,Cloudflare,1656,44.44
-2026-11-12,LS,Lesotho,3726,2,Amazon (AWS),612,16.43
-2026-11-12,LS,Lesotho,3726,3,Fastly,122,3.27
-2026-11-12,LS,Lesotho,3726,4,Google,107,2.87
-2026-11-12,LS,Lesotho,3726,5,Akamai,105,2.82
-2026-11-12,NC,New Caledonia,3603,1,Cloudflare,1344,37.30
-2026-11-12,NC,New Caledonia,3603,2,Amazon (AWS),455,12.63
-2026-11-12,NC,New Caledonia,3603,3,OVHcloud,288,7.99
-2026-11-12,NC,New Caledonia,3603,4,Google,177,4.91
-2026-11-12,NC,New Caledonia,3603,5,CANL,116,3.22
-2026-11-12,SS,South Sudan,3592,1,Cloudflare,1771,49.30
-2026-11-12,SS,South Sudan,3592,2,Amazon (AWS),517,14.39
-2026-11-12,SS,South Sudan,3592,3,Google,116,3.23
-2026-11-12,SS,South Sudan,3592,4,Akamai,106,2.95
-2026-11-12,SS,South Sudan,3592,5,Fastly,99,2.76
-2026-11-12,AD,Andorra,3476,1,Cloudflare,1058,30.44
-2026-11-12,AD,Andorra,3476,2,Amazon (AWS),704,20.25
-2026-11-12,AD,Andorra,3476,3,Akamai,177,5.09
-2026-11-12,AD,Andorra,3476,4,Fastly,155,4.46
-2026-11-12,AD,Andorra,3476,5,Google,139,4.00
-2026-11-12,CW,Curaçao,3298,1,Cloudflare,1175,35.63
-2026-11-12,CW,Curaçao,3298,2,Amazon (AWS),566,17.16
-2026-11-12,CW,Curaçao,3298,3,Akamai,210,6.37
-2026-11-12,CW,Curaçao,3298,4,Google,146,4.43
-2026-11-12,CW,Curaçao,3298,5,Fastly,142,4.31
-2026-11-12,BI,Burundi,3255,1,Cloudflare,1549,47.59
-2026-11-12,BI,Burundi,3255,2,Amazon (AWS),448,13.76
-2026-11-12,BI,Burundi,3255,3,Google,94,2.89
-2026-11-12,BI,Burundi,3255,4,Akamai,82,2.52
-2026-11-12,BI,Burundi,3255,5,Fastly,71,2.18
-2026-11-12,GM,The Gambia,3230,1,Cloudflare,1447,44.80
-2026-11-12,GM,The Gambia,3230,2,Amazon (AWS),494,15.29
-2026-11-12,GM,The Gambia,3230,3,Akamai,125,3.87
-2026-11-12,GM,The Gambia,3230,4,Google,110,3.41
-2026-11-12,GM,The Gambia,3230,5,Fastly,95,2.94
-2026-11-12,GU,Guam,2864,1,Cloudflare,1100,38.41
-2026-11-12,GU,Guam,2864,2,Amazon (AWS),565,19.73
-2026-11-12,GU,Guam,2864,3,Akamai,183,6.39
-2026-11-12,GU,Guam,2864,4,Fastly,155,5.41
-2026-11-12,GU,Guam,2864,5,Google,99,3.46
-2026-11-12,AW,Aruba,2778,1,Cloudflare,974,35.06
-2026-11-12,AW,Aruba,2778,2,Amazon (AWS),528,19.01
-2026-11-12,AW,Aruba,2778,3,Akamai,195,7.02
-2026-11-12,AW,Aruba,2778,4,Fastly,138,4.97
-2026-11-12,AW,Aruba,2778,5,Google,104,3.74
-2026-11-12,DJ,Djibouti,2751,1,Cloudflare,1289,46.86
-2026-11-12,DJ,Djibouti,2751,2,Amazon (AWS),314,11.41
-2026-11-12,DJ,Djibouti,2751,3,OVHcloud,85,3.09
-2026-11-12,DJ,Djibouti,2751,4,Akamai,83,3.02
-2026-11-12,DJ,Djibouti,2751,5,Google,83,3.02
-2026-11-12,LC,Saint Lucia,2636,1,Cloudflare,1162,44.08
-2026-11-12,LC,Saint Lucia,2636,2,Amazon (AWS),458,17.37
-2026-11-12,LC,Saint Lucia,2636,3,Akamai,144,5.46
-2026-11-12,LC,Saint Lucia,2636,4,Fastly,134,5.08
-2026-11-12,LC,Saint Lucia,2636,5,Google,91,3.45
-2026-11-12,EH,Western Sahara,2618,1,Cloudflare,1400,53.48
-2026-11-12,EH,Western Sahara,2618,2,Amazon (AWS),253,9.66
-2026-11-12,EH,Western Sahara,2618,3,Google,96,3.67
-2026-11-12,EH,Western Sahara,2618,4,Akamai,54,2.06
-2026-11-12,EH,Western Sahara,2618,5,OVHcloud,51,1.95
-2026-11-12,SC,Seychelles,2368,1,Cloudflare,976,41.22
-2026-11-12,SC,Seychelles,2368,2,Amazon (AWS),324,13.68
-2026-11-12,SC,Seychelles,2368,3,Akamai,91,3.84
-2026-11-12,SC,Seychelles,2368,4,Google,82,3.46
-2026-11-12,SC,Seychelles,2368,5,Fastly,75,3.17
-2026-11-12,JE,Jersey,2241,1,Cloudflare,756,33.73
-2026-11-12,JE,Jersey,2241,2,Amazon (AWS),551,24.59
-2026-11-12,JE,Jersey,2241,3,Akamai,139,6.20
-2026-11-12,JE,Jersey,2241,4,Fastly,132,5.89
-2026-11-12,JE,Jersey,2241,5,Google,93,4.15
-2026-11-12,IM,Isle of Man,2167,1,Cloudflare,694,32.03
-2026-11-12,IM,Isle of Man,2167,2,Amazon (AWS),529,24.41
-2026-11-12,IM,Isle of Man,2167,3,Akamai,161,7.43
-2026-11-12,IM,Isle of Man,2167,4,Fastly,142,6.55
-2026-11-12,IM,Isle of Man,2167,5,Microsoft,85,3.92
-2026-11-12,YT,Mayotte,2035,1,Cloudflare,788,38.72
-2026-11-12,YT,Mayotte,2035,2,Amazon (AWS),241,11.84
-2026-11-12,YT,Mayotte,2035,3,OVHcloud,173,8.50
-2026-11-12,YT,Mayotte,2035,4,Google,64,3.14
-2026-11-12,YT,Mayotte,2035,5,Akamai,59,2.90
-2026-11-12,AG,Antigua and Barbuda,1958,1,Cloudflare,708,36.16
-2026-11-12,AG,Antigua and Barbuda,1958,2,Amazon (AWS),321,16.39
-2026-11-12,AG,Antigua and Barbuda,1958,3,Fastly,109,5.57
-2026-11-12,AG,Antigua and Barbuda,1958,4,Akamai,105,5.36
-2026-11-12,AG,Antigua and Barbuda,1958,5,Google,62,3.17
-2026-11-12,KY,Cayman Islands,1888,1,Cloudflare,663,35.12
-2026-11-12,KY,Cayman Islands,1888,2,Amazon (AWS),386,20.44
-2026-11-12,KY,Cayman Islands,1888,3,Akamai,133,7.04
-2026-11-12,KY,Cayman Islands,1888,4,Fastly,102,5.40
-2026-11-12,KY,Cayman Islands,1888,5,Google,73,3.87
-2026-11-12,GD,Grenada,1756,1,Cloudflare,712,40.55
-2026-11-12,GD,Grenada,1756,2,Amazon (AWS),316,18.00
-2026-11-12,GD,Grenada,1756,3,Akamai,102,5.81
-2026-11-12,GD,Grenada,1756,4,Fastly,97,5.52
-2026-11-12,GD,Grenada,1756,5,Google,83,4.73
-2026-11-12,CF,Central African Republic,1693,1,Cloudflare,726,42.88
-2026-11-12,CF,Central African Republic,1693,2,Amazon (AWS),225,13.29
-2026-11-12,CF,Central African Republic,1693,3,Google,97,5.73
-2026-11-12,CF,Central African Republic,1693,4,OVHcloud,48,2.84
-2026-11-12,CF,Central African Republic,1693,5,Akamai,45,2.66
-2026-11-12,GW,Guinea-Bissau,1675,1,Cloudflare,789,47.10
-2026-11-12,GW,Guinea-Bissau,1675,2,Amazon (AWS),207,12.36
-2026-11-12,GW,Guinea-Bissau,1675,3,Google,64,3.82
-2026-11-12,GW,Guinea-Bissau,1675,4,Akamai,55,3.28
-2026-11-12,GW,Guinea-Bissau,1675,5,Fastly,38,2.27
-2026-11-12,VC,Saint Vincent and the Grenadines,1612,1,Cloudflare,678,42.06
-2026-11-12,VC,Saint Vincent and the Grenadines,1612,2,Amazon (AWS),253,15.69
-2026-11-12,VC,Saint Vincent and the Grenadines,1612,3,Akamai,93,5.77
-2026-11-12,VC,Saint Vincent and the Grenadines,1612,4,Fastly,84,5.21
-2026-11-12,VC,Saint Vincent and the Grenadines,1612,5,Google,54,3.35
-2026-11-12,BM,Bermuda,1517,1,Cloudflare,456,30.06
-2026-11-12,BM,Bermuda,1517,2,Amazon (AWS),356,23.47
-2026-11-12,BM,Bermuda,1517,3,Akamai,116,7.65
-2026-11-12,BM,Bermuda,1517,4,Fastly,105,6.92
-2026-11-12,BM,Bermuda,1517,5,Google,80,5.27
-2026-11-12,VI,United States Virgin Islands,1516,1,Cloudflare,499,32.92
-2026-11-12,VI,United States Virgin Islands,1516,2,Amazon (AWS),348,22.96
-2026-11-12,VI,United States Virgin Islands,1516,3,Akamai,138,9.10
-2026-11-12,VI,United States Virgin Islands,1516,4,Fastly,102,6.73
-2026-11-12,VI,United States Virgin Islands,1516,5,Google,57,3.76
-2026-11-12,SB,Solomon Islands,1420,1,Cloudflare,679,47.82
-2026-11-12,SB,Solomon Islands,1420,2,Amazon (AWS),204,14.37
-2026-11-12,SB,Solomon Islands,1420,3,Google,46,3.24
-2026-11-12,SB,Solomon Islands,1420,4,Akamai,43,3.03
-2026-11-12,SB,Solomon Islands,1420,5,Fastly,39,2.75
-2026-11-12,VU,Vanuatu,1366,1,Cloudflare,544,39.82
-2026-11-12,VU,Vanuatu,1366,2,Amazon (AWS),172,12.59
-2026-11-12,VU,Vanuatu,1366,3,Google,51,3.73
-2026-11-12,VU,Vanuatu,1366,4,Akamai,45,3.29
-2026-11-12,VU,Vanuatu,1366,5,Fastly,40,2.93
-2026-11-12,GG,Guernsey,1336,1,Cloudflare,420,31.44
-2026-11-12,GG,Guernsey,1336,2,Amazon (AWS),336,25.15
-2026-11-12,GG,Guernsey,1336,3,Fastly,101,7.56
-2026-11-12,GG,Guernsey,1336,4,Akamai,92,6.89
-2026-11-12,GG,Guernsey,1336,5,Google,47,3.52
-2026-11-12,KM,Comoros,1325,1,Cloudflare,635,47.92
-2026-11-12,KM,Comoros,1325,2,Amazon (AWS),155,11.70
-2026-11-12,KM,Comoros,1325,3,Google,46,3.47
-2026-11-12,KM,Comoros,1325,4,Akamai,41,3.09
-2026-11-12,KM,Comoros,1325,5,OVHcloud,36,2.72
-2026-11-12,GQ,Equatorial Guinea,1224,1,Cloudflare,515,42.08
-2026-11-12,GQ,Equatorial Guinea,1224,2,Amazon (AWS),187,15.28
-2026-11-12,GQ,Equatorial Guinea,1224,3,Fastly,47,3.84
-2026-11-12,GQ,Equatorial Guinea,1224,4,Google,45,3.68
-2026-11-12,GQ,Equatorial Guinea,1224,5,Akamai,44,3.59
-2026-11-12,DM,Dominica,1129,1,Cloudflare,454,40.21
-2026-11-12,DM,Dominica,1129,2,Amazon (AWS),211,18.69
-2026-11-12,DM,Dominica,1129,3,Fastly,64,5.67
-2026-11-12,DM,Dominica,1129,4,Akamai,63,5.58
-2026-11-12,DM,Dominica,1129,5,Google,37,3.28
-2026-11-12,SX,Sint Maarten,1084,1,Cloudflare,339,31.27
-2026-11-12,SX,Sint Maarten,1084,2,Amazon (AWS),211,19.46
-2026-11-12,SX,Sint Maarten,1084,3,Akamai,91,8.39
-2026-11-12,SX,Sint Maarten,1084,4,Fastly,65,6.00
-2026-11-12,SX,Sint Maarten,1084,5,Google,46,4.24
-2026-11-12,KN,Saint Kitts and Nevis,1068,1,Cloudflare,392,36.70
-2026-11-12,KN,Saint Kitts and Nevis,1068,2,Amazon (AWS),198,18.54
-2026-11-12,KN,Saint Kitts and Nevis,1068,3,Akamai,75,7.02
-2026-11-12,KN,Saint Kitts and Nevis,1068,4,Fastly,64,5.99
-2026-11-12,KN,Saint Kitts and Nevis,1068,5,Google,39,3.65
-2026-11-12,FO,Faroe Islands,1054,1,Cloudflare,337,31.97
-2026-11-12,FO,Faroe Islands,1054,2,Amazon (AWS),191,18.12
-2026-11-12,FO,Faroe Islands,1054,3,team.blue Denmark A/S,60,5.69
-2026-11-12,FO,Faroe Islands,1054,4,DigitalOcean,59,5.60
-2026-11-12,FO,Faroe Islands,1054,5,Fastly,56,5.31
-2026-11-12,LI,Liechtenstein,1007,1,Cloudflare,238,23.63
-2026-11-12,LI,Liechtenstein,1007,2,Amazon (AWS),166,16.48
-2026-11-12,LI,Liechtenstein,1007,3,Google,54,5.36
-2026-11-12,LI,Liechtenstein,1007,4,Hetzner,48,4.77
-2026-11-12,LI,Liechtenstein,1007,5,Akamai,45,4.47
+2026-11-14,DE,Germany,842295,1,Cloudflare,201730,23.95
+2026-11-14,DE,Germany,842295,2,Hetzner,79298,9.41
+2026-11-14,DE,Germany,842295,3,IONOS,72162,8.57
+2026-11-14,DE,Germany,842295,4,Amazon (AWS),50360,5.98
+2026-11-14,DE,Germany,842295,5,Neue Medien Muennich GmbH,47773,5.67
+2026-11-14,GB,United Kingdom,775231,1,Cloudflare,299357,38.62
+2026-11-14,GB,United Kingdom,775231,2,Amazon (AWS),90574,11.68
+2026-11-14,GB,United Kingdom,775231,3,Google,36453,4.70
+2026-11-14,GB,United Kingdom,775231,4,Wix,26123,3.37
+2026-11-14,GB,United Kingdom,775231,5,IONOS,23641,3.05
+2026-11-14,JP,Japan,765632,1,Xserver Inc.,164995,21.55
+2026-11-14,JP,Japan,765632,2,SAKURA Internet Inc.,115386,15.07
+2026-11-14,JP,Japan,765632,3,"GMO Internet, Inc.",109088,14.25
+2026-11-14,JP,Japan,765632,4,Cloudflare,96032,12.54
+2026-11-14,JP,Japan,765632,5,Amazon (AWS),87749,11.46
+2026-11-14,IN,India,742394,1,Cloudflare,256777,34.59
+2026-11-14,IN,India,742394,2,Amazon (AWS),108291,14.59
+2026-11-14,IN,India,742394,3,Hostinger,102419,13.80
+2026-11-14,IN,India,742394,4,Google,32260,4.35
+2026-11-14,IN,India,742394,5,GoDaddy,15548,2.09
+2026-11-14,BR,Brazil,722660,1,Cloudflare,260583,36.06
+2026-11-14,BR,Brazil,722660,2,Amazon (AWS),95113,13.16
+2026-11-14,BR,Brazil,722660,3,Hostinger,65595,9.08
+2026-11-14,BR,Brazil,722660,4,Oracle Corporation,44810,6.20
+2026-11-14,BR,Brazil,722660,5,Google,18894,2.61
+2026-11-14,US,United States of America,717082,1,Cloudflare,322384,44.96
+2026-11-14,US,United States of America,717082,2,Amazon (AWS),98300,13.71
+2026-11-14,US,United States of America,717082,3,Google,30178,4.21
+2026-11-14,US,United States of America,717082,4,Fastly,21037,2.93
+2026-11-14,US,United States of America,717082,5,Squarespace,17358,2.42
+2026-11-14,FR,France,695477,1,Cloudflare,196206,28.21
+2026-11-14,FR,France,695477,2,OVHcloud,142442,20.48
+2026-11-14,FR,France,695477,3,Amazon (AWS),54404,7.82
+2026-11-14,FR,France,695477,4,o2switch,33375,4.80
+2026-11-14,FR,France,695477,5,IONOS,21537,3.10
+2026-11-14,IT,Italy,586256,1,Cloudflare,152151,25.95
+2026-11-14,IT,Italy,586256,2,Aruba S.p.A.,90489,15.44
+2026-11-14,IT,Italy,586256,3,Amazon (AWS),52035,8.88
+2026-11-14,IT,Italy,586256,4,Server Plan S.r.l.,23186,3.95
+2026-11-14,IT,Italy,586256,5,Hetzner,22574,3.85
+2026-11-14,ID,Indonesia,572931,1,Cloudflare,305452,53.31
+2026-11-14,ID,Indonesia,572931,2,Amazon (AWS),43693,7.63
+2026-11-14,ID,Indonesia,572931,3,Hostinger,34854,6.08
+2026-11-14,ID,Indonesia,572931,4,Google,25042,4.37
+2026-11-14,ID,Indonesia,572931,5,CV. Rumahweb Indonesia,10913,1.90
+2026-11-14,ES,Spain,552643,1,Cloudflare,149874,27.12
+2026-11-14,ES,Spain,552643,2,Amazon (AWS),48845,8.84
+2026-11-14,ES,Spain,552643,3,IONOS,45231,8.18
+2026-11-14,ES,Spain,552643,4,OVHcloud,27899,5.05
+2026-11-14,ES,Spain,552643,5,Google,21707,3.93
+2026-11-14,CA,Canada,520063,1,Cloudflare,220205,42.34
+2026-11-14,CA,Canada,520063,2,Amazon (AWS),66047,12.70
+2026-11-14,CA,Canada,520063,3,Google,21786,4.19
+2026-11-14,CA,Canada,520063,4,Wix,17297,3.33
+2026-11-14,CA,Canada,520063,5,OVHcloud,16106,3.10
+2026-11-14,RU,Russia,475072,1,Ddos-guard Ltd,53285,11.22
+2026-11-14,RU,Russia,475072,2,Beget LLC,53022,11.16
+2026-11-14,RU,Russia,475072,3,Cloudflare,48746,10.26
+2026-11-14,RU,Russia,475072,4,Jsc timeweb,41424,8.72
+2026-11-14,RU,Russia,475072,5,"Domain names registrar REG.RU, Ltd",40119,8.44
+2026-11-14,NL,Netherlands,418471,1,Cloudflare,129684,30.99
+2026-11-14,NL,Netherlands,418471,2,Amazon (AWS),34794,8.31
+2026-11-14,NL,Netherlands,418471,3,Signet B.V.,17876,4.27
+2026-11-14,NL,Netherlands,418471,4,Hetzner,12396,2.96
+2026-11-14,NL,Netherlands,418471,5,Google,10996,2.63
+2026-11-14,PL,Poland,385540,1,Cloudflare,98124,25.45
+2026-11-14,PL,Poland,385540,2,Cyber_Folks S.A.,36241,9.40
+2026-11-14,PL,Poland,385540,3,Amazon (AWS),24141,6.26
+2026-11-14,PL,Poland,385540,4,home.pl sp. z o.o.,19786,5.13
+2026-11-14,PL,Poland,385540,5,OVHcloud,18939,4.91
+2026-11-14,AU,Australia,363055,1,Cloudflare,158010,43.52
+2026-11-14,AU,Australia,363055,2,Amazon (AWS),48993,13.49
+2026-11-14,AU,Australia,363055,3,Google,16977,4.68
+2026-11-14,AU,Australia,363055,4,SYNERGY WHOLESALE PTY LTD,13673,3.77
+2026-11-14,AU,Australia,363055,5,Squarespace,12315,3.39
+2026-11-14,TR,Turkey,350759,1,Cloudflare,149534,42.63
+2026-11-14,TR,Turkey,350759,2,Amazon (AWS),25449,7.26
+2026-11-14,TR,Turkey,350759,3,Cizgi Telekomunikasyon Anonim Sirketi,15886,4.53
+2026-11-14,TR,Turkey,350759,4,GNET Internet Telekomunikasyon A.S.,13328,3.80
+2026-11-14,TR,Turkey,350759,5,Hostinger,9882,2.82
+2026-11-14,MX,Mexico,331194,1,Cloudflare,121358,36.64
+2026-11-14,MX,Mexico,331194,2,Amazon (AWS),41353,12.49
+2026-11-14,MX,Mexico,331194,3,Hostinger,16285,4.92
+2026-11-14,MX,Mexico,331194,4,Google,15835,4.78
+2026-11-14,MX,Mexico,331194,5,Oracle Corporation,8703,2.63
+2026-11-14,AR,Argentina,263754,1,Cloudflare,78827,29.89
+2026-11-14,AR,Argentina,263754,2,Amazon (AWS),36024,13.66
+2026-11-14,AR,Argentina,263754,3,LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE,19545,7.41
+2026-11-14,AR,Argentina,263754,4,Hostinger,18123,6.87
+2026-11-14,AR,Argentina,263754,5,Dattatec.com,17226,6.53
+2026-11-14,IR,Iran,250736,1,Cloudflare,45020,17.96
+2026-11-14,IR,Iran,250736,2,Netafraz Iranian Ltd.,26765,10.67
+2026-11-14,IR,Iran,250736,3,Netmihan Communication Company Ltd,17012,6.78
+2026-11-14,IR,Iran,250736,4,Dade Pardazi Mobinhost Co LTD,14194,5.66
+2026-11-14,IR,Iran,250736,5,Noyan Abr Arvan Co. ( Private Joint Stock),12696,5.06
+2026-11-14,BE,Belgium,240480,1,Cloudflare,76855,31.96
+2026-11-14,BE,Belgium,240480,2,Amazon (AWS),21412,8.90
+2026-11-14,BE,Belgium,240480,3,Combell NV,20643,8.58
+2026-11-14,BE,Belgium,240480,4,OVHcloud,17268,7.18
+2026-11-14,BE,Belgium,240480,5,Google,6715,2.79
+2026-11-14,VN,Vietnam,232326,1,Cloudflare,87294,37.57
+2026-11-14,VN,Vietnam,232326,2,Amazon (AWS),22585,9.72
+2026-11-14,VN,Vietnam,232326,3,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,13691,5.89
+2026-11-14,VN,Vietnam,232326,4,AZDIGI Corporation,8520,3.67
+2026-11-14,VN,Vietnam,232326,5,SUPERDATA-VN,6855,2.95
+2026-11-14,PH,Philippines,231785,1,Cloudflare,114442,49.37
+2026-11-14,PH,Philippines,231785,2,Amazon (AWS),31641,13.65
+2026-11-14,PH,Philippines,231785,3,ACE,9173,3.96
+2026-11-14,PH,Philippines,231785,4,Google,7611,3.28
+2026-11-14,PH,Philippines,231785,5,Hostinger,6360,2.74
+2026-11-14,PK,Pakistan,224224,1,Cloudflare,109043,48.63
+2026-11-14,PK,Pakistan,224224,2,Amazon (AWS),26504,11.82
+2026-11-14,PK,Pakistan,224224,3,Hostinger,16277,7.26
+2026-11-14,PK,Pakistan,224224,4,Google,6959,3.10
+2026-11-14,PK,Pakistan,224224,5,Hetzner,5109,2.28
+2026-11-14,KR,South Korea,218060,1,Cloudflare,52883,24.25
+2026-11-14,KR,South Korea,218060,2,Korea Telecom,42065,19.29
+2026-11-14,KR,South Korea,218060,3,Amazon (AWS),40927,18.77
+2026-11-14,KR,South Korea,218060,4,SK Broadband Co Ltd,9158,4.20
+2026-11-14,KR,South Korea,218060,5,LG DACOM Corporation,8062,3.70
+2026-11-14,UA,Ukraine,201892,1,Cloudflare,57739,28.60
+2026-11-14,UA,Ukraine,201892,2,Hosting Ukraine LTD,25106,12.44
+2026-11-14,UA,Ukraine,201892,3,Hetzner,12200,6.04
+2026-11-14,UA,Ukraine,201892,4,Amazon (AWS),11293,5.59
+2026-11-14,UA,Ukraine,201892,5,Evo Cloud LLC,11079,5.49
+2026-11-14,CZ,Czech Republic,199301,1,Cloudflare,43481,21.82
+2026-11-14,CZ,Czech Republic,199301,2,Amazon (AWS),16195,8.13
+2026-11-14,CZ,Czech Republic,199301,3,"WEDOS Internet, a.s.",13139,6.59
+2026-11-14,CZ,Czech Republic,199301,4,VSHosting s.r.o.,12242,6.14
+2026-11-14,CZ,Czech Republic,199301,5,MasterDC s.r.o.,9330,4.68
+2026-11-14,BD,Bangladesh,196332,1,Cloudflare,90683,46.19
+2026-11-14,BD,Bangladesh,196332,2,Amazon (AWS),19570,9.97
+2026-11-14,BD,Bangladesh,196332,3,Hostinger,10073,5.13
+2026-11-14,BD,Bangladesh,196332,4,Google,8345,4.25
+2026-11-14,BD,Bangladesh,196332,5,ACE,3926,2.00
+2026-11-14,CO,Colombia,195578,1,Cloudflare,71359,36.49
+2026-11-14,CO,Colombia,195578,2,Amazon (AWS),24636,12.60
+2026-11-14,CO,Colombia,195578,3,Hostinger,14903,7.62
+2026-11-14,CO,Colombia,195578,4,Google,8490,4.34
+2026-11-14,CO,Colombia,195578,5,OVHcloud,7323,3.74
+2026-11-14,MY,Malaysia,183967,1,Cloudflare,82932,45.08
+2026-11-14,MY,Malaysia,183967,2,Amazon (AWS),21206,11.53
+2026-11-14,MY,Malaysia,183967,3,Google,7055,3.83
+2026-11-14,MY,Malaysia,183967,4,Hostinger,4908,2.67
+2026-11-14,MY,Malaysia,183967,5,"Alibaba (US) Technology Co., Ltd.",4504,2.45
+2026-11-14,TH,Thailand,181114,1,Cloudflare,82125,45.34
+2026-11-14,TH,Thailand,181114,2,Amazon (AWS),21439,11.84
+2026-11-14,TH,Thailand,181114,3,CS LOXINFO Public Company Limited.,9647,5.33
+2026-11-14,TH,Thailand,181114,4,Google,5647,3.12
+2026-11-14,TH,Thailand,181114,5,National Telecom Public Company Limited,4373,2.41
+2026-11-14,ZA,South Africa,180895,1,Cloudflare,68772,38.02
+2026-11-14,ZA,South Africa,180895,2,Amazon (AWS),19588,10.83
+2026-11-14,ZA,South Africa,180895,3,Xneelo (Pty) Ltd,18603,10.28
+2026-11-14,ZA,South Africa,180895,4,AFRIHOST SP (PTY) LTD,5865,3.24
+2026-11-14,ZA,South Africa,180895,5,DIAMATRIX C.C,5627,3.11
+2026-11-14,CH,Switzerland,179450,1,Cloudflare,56745,31.62
+2026-11-14,CH,Switzerland,179450,2,Amazon (AWS),16675,9.29
+2026-11-14,CH,Switzerland,179450,3,Hetzner,9363,5.22
+2026-11-14,CH,Switzerland,179450,4,Infomaniak,8321,4.64
+2026-11-14,CH,Switzerland,179450,5,METANET AG,7088,3.95
+2026-11-14,AT,Austria,177401,1,Cloudflare,50822,28.65
+2026-11-14,AT,Austria,177401,2,Hetzner,18151,10.23
+2026-11-14,AT,Austria,177401,3,Amazon (AWS),13606,7.67
+2026-11-14,AT,Austria,177401,4,IONOS,10025,5.65
+2026-11-14,AT,Austria,177401,5,Neue Medien Muennich GmbH,6246,3.52
+2026-11-14,RO,Romania,167930,1,Cloudflare,59400,35.37
+2026-11-14,RO,Romania,167930,2,Amazon (AWS),13832,8.24
+2026-11-14,RO,Romania,167930,3,ROMARG SRL,10629,6.33
+2026-11-14,RO,Romania,167930,4,GTS Telecom SRL,7778,4.63
+2026-11-14,RO,Romania,167930,5,Cyber_Folks SRL,7549,4.50
+2026-11-14,TW,Taiwan,162102,1,Cloudflare,53965,33.29
+2026-11-14,TW,Taiwan,162102,2,Amazon (AWS),24066,14.85
+2026-11-14,TW,Taiwan,162102,3,Data Communication Business Group,14980,9.24
+2026-11-14,TW,Taiwan,162102,4,Google,8335,5.14
+2026-11-14,TW,Taiwan,162102,5,Akamai,4563,2.81
+2026-11-14,CL,Chile,156264,1,Cloudflare,55369,35.43
+2026-11-14,CL,Chile,156264,2,Amazon (AWS),21029,13.46
+2026-11-14,CL,Chile,156264,3,Google,5579,3.57
+2026-11-14,CL,Chile,156264,4,Hostinger,4946,3.17
+2026-11-14,CL,Chile,156264,5,OVHcloud,3119,2.00
+2026-11-14,SE,Sweden,154931,1,Cloudflare,53969,34.83
+2026-11-14,SE,Sweden,154931,2,Amazon (AWS),16798,10.84
+2026-11-14,SE,Sweden,154931,3,Loopia AB,6288,4.06
+2026-11-14,SE,Sweden,154931,4,ODERLAND Webbhotell AB,6131,3.96
+2026-11-14,SE,Sweden,154931,5,One.com A/S,5665,3.66
+2026-11-14,GR,Greece,150288,1,Cloudflare,54758,36.44
+2026-11-14,GR,Greece,150288,2,Hetzner,21888,14.56
+2026-11-14,GR,Greece,150288,3,Amazon (AWS),12185,8.11
+2026-11-14,GR,Greece,150288,4,Combell NV,7785,5.18
+2026-11-14,GR,Greece,150288,5,Google,4199,2.79
+2026-11-14,PT,Portugal,148010,1,Cloudflare,55701,37.63
+2026-11-14,PT,Portugal,148010,2,Amazon (AWS),17710,11.97
+2026-11-14,PT,Portugal,148010,3,Almouroltec Servicos De Informatica E Internet Lda,4924,3.33
+2026-11-14,PT,Portugal,148010,4,Hetzner,4026,2.72
+2026-11-14,PT,Portugal,148010,5,Google,3941,2.66
+2026-11-14,EG,Egypt,147839,1,Cloudflare,69278,46.86
+2026-11-14,EG,Egypt,147839,2,Amazon (AWS),15995,10.82
+2026-11-14,EG,Egypt,147839,3,Hostinger,9169,6.20
+2026-11-14,EG,Egypt,147839,4,Google,5762,3.90
+2026-11-14,EG,Egypt,147839,5,Hetzner,3855,2.61
+2026-11-14,SA,Saudi Arabia,143584,1,Cloudflare,75000,52.23
+2026-11-14,SA,Saudi Arabia,143584,2,Amazon (AWS),14945,10.41
+2026-11-14,SA,Saudi Arabia,143584,3,Hostinger,7500,5.22
+2026-11-14,SA,Saudi Arabia,143584,4,Google,5209,3.63
+2026-11-14,SA,Saudi Arabia,143584,5,Hetzner,2570,1.79
+2026-11-14,HU,Hungary,140852,1,Cloudflare,37998,26.98
+2026-11-14,HU,Hungary,140852,2,Amazon (AWS),13106,9.30
+2026-11-14,HU,Hungary,140852,3,Rackforest Zrt.,10462,7.43
+2026-11-14,HU,Hungary,140852,4,WebSupport s.r.o.,6247,4.44
+2026-11-14,HU,Hungary,140852,5,Tarhely.Eu Szolgaltato Kft.,5303,3.76
+2026-11-14,PE,Peru,125737,1,Cloudflare,47147,37.50
+2026-11-14,PE,Peru,125737,2,Amazon (AWS),15986,12.71
+2026-11-14,PE,Peru,125737,3,Google,5580,4.44
+2026-11-14,PE,Peru,125737,4,Hostinger,5408,4.30
+2026-11-14,PE,Peru,125737,5,DEFT.COM,4707,3.74
+2026-11-14,AE,United Arab Emirates,124800,1,Cloudflare,56417,45.21
+2026-11-14,AE,United Arab Emirates,124800,2,Amazon (AWS),16287,13.05
+2026-11-14,AE,United Arab Emirates,124800,3,Hostinger,6316,5.06
+2026-11-14,AE,United Arab Emirates,124800,4,Google,4074,3.26
+2026-11-14,AE,United Arab Emirates,124800,5,Microsoft,2329,1.87
+2026-11-14,SG,Singapore,124667,1,Cloudflare,54883,44.02
+2026-11-14,SG,Singapore,124667,2,Amazon (AWS),17387,13.95
+2026-11-14,SG,Singapore,124667,3,Google,4139,3.32
+2026-11-14,SG,Singapore,124667,4,Fastly,2321,1.86
+2026-11-14,SG,Singapore,124667,5,Akamai,2263,1.82
+2026-11-14,IL,Israel,122373,1,Cloudflare,49590,40.52
+2026-11-14,IL,Israel,122373,2,Amazon (AWS),14072,11.50
+2026-11-14,IL,Israel,122373,3,Wix,5113,4.18
+2026-11-14,IL,Israel,122373,4,uPress Inc,4797,3.92
+2026-11-14,IL,Israel,122373,5,Google,3953,3.23
+2026-11-14,IE,Ireland,117354,1,Cloudflare,49812,42.45
+2026-11-14,IE,Ireland,117354,2,Amazon (AWS),15253,13.00
+2026-11-14,IE,Ireland,117354,3,Google,3715,3.17
+2026-11-14,IE,Ireland,117354,4,Blacknight Internet Solutions Limited,2640,2.25
+2026-11-14,IE,Ireland,117354,5,Microsoft,2569,2.19
+2026-11-14,FI,Finland,116393,1,Cloudflare,34072,29.27
+2026-11-14,FI,Finland,116393,2,Amazon (AWS),13392,11.51
+2026-11-14,FI,Finland,116393,3,Hetzner,7970,6.85
+2026-11-14,FI,Finland,116393,4,Planeetta Internet Oy,4530,3.89
+2026-11-14,FI,Finland,116393,5,Google,4393,3.77
+2026-11-14,NG,Nigeria,112666,1,Cloudflare,45528,40.41
+2026-11-14,NG,Nigeria,112666,2,Amazon (AWS),17733,15.74
+2026-11-14,NG,Nigeria,112666,3,Hostinger,5085,4.51
+2026-11-14,NG,Nigeria,112666,4,"Namecheap, Inc.",4449,3.95
+2026-11-14,NG,Nigeria,112666,5,Google,3886,3.45
+2026-11-14,NZ,New Zealand,107385,1,Cloudflare,48926,45.56
+2026-11-14,NZ,New Zealand,107385,2,Amazon (AWS),14902,13.88
+2026-11-14,NZ,New Zealand,107385,3,Google,3771,3.51
+2026-11-14,NZ,New Zealand,107385,4,Squarespace,3691,3.44
+2026-11-14,NZ,New Zealand,107385,5,SiteHost New Zealand,3366,3.13
+2026-11-14,DK,Denmark,106725,1,Cloudflare,36864,34.54
+2026-11-14,DK,Denmark,106725,2,team.blue Denmark A/S,17375,16.28
+2026-11-14,DK,Denmark,106725,3,Amazon (AWS),10042,9.41
+2026-11-14,DK,Denmark,106725,4,Hetzner,5209,4.88
+2026-11-14,DK,Denmark,106725,5,One.com A/S,3936,3.69
+2026-11-14,SK,Slovakia,96864,1,Cloudflare,24209,24.99
+2026-11-14,SK,Slovakia,96864,2,WebSupport s.r.o.,15237,15.73
+2026-11-14,SK,Slovakia,96864,3,Amazon (AWS),7219,7.45
+2026-11-14,SK,Slovakia,96864,4,VNET a.s.,4903,5.06
+2026-11-14,SK,Slovakia,96864,5,VSHosting s.r.o.,3995,4.12
+2026-11-14,MA,Morocco,94150,1,Cloudflare,41160,43.72
+2026-11-14,MA,Morocco,94150,2,Amazon (AWS),10191,10.82
+2026-11-14,MA,Morocco,94150,3,Hostinger,4465,4.74
+2026-11-14,MA,Morocco,94150,4,OVHcloud,4413,4.69
+2026-11-14,MA,Morocco,94150,5,Google,3821,4.06
+2026-11-14,HK,Hong Kong,93598,1,Cloudflare,35565,38.00
+2026-11-14,HK,Hong Kong,93598,2,Amazon (AWS),13388,14.30
+2026-11-14,HK,Hong Kong,93598,3,Google,2872,3.07
+2026-11-14,HK,Hong Kong,93598,4,"Hangzhou Alibaba Advertising Co.,Ltd.",2805,3.00
+2026-11-14,HK,Hong Kong,93598,5,Wix,2077,2.22
+2026-11-14,DZ,Algeria,93338,1,Cloudflare,43019,46.09
+2026-11-14,DZ,Algeria,93338,2,Amazon (AWS),9447,10.12
+2026-11-14,DZ,Algeria,93338,3,OVHcloud,4200,4.50
+2026-11-14,DZ,Algeria,93338,4,Google,3696,3.96
+2026-11-14,DZ,Algeria,93338,5,Hostinger,3588,3.84
+2026-11-14,NO,Norway,91011,1,Cloudflare,33538,36.85
+2026-11-14,NO,Norway,91011,2,Amazon (AWS),12127,13.32
+2026-11-14,NO,Norway,91011,3,One.com A/S,2759,3.03
+2026-11-14,NO,Norway,91011,4,Microsoft,2646,2.91
+2026-11-14,NO,Norway,91011,5,Google,2444,2.69
+2026-11-14,BG,Bulgaria,86067,1,Cloudflare,30276,35.18
+2026-11-14,BG,Bulgaria,86067,2,SuperHosting.BG Ltd.,16279,18.91
+2026-11-14,BG,Bulgaria,86067,3,Amazon (AWS),7004,8.14
+2026-11-14,BG,Bulgaria,86067,4,Delta HighTech Ltd.,2880,3.35
+2026-11-14,BG,Bulgaria,86067,5,Hetzner,2547,2.96
+2026-11-14,BY,Belarus,82901,1,Republican Unitary Telecommunication Enterprise Beltelecom,15253,18.40
+2026-11-14,BY,Belarus,82901,2,Cloudflare,12844,15.49
+2026-11-14,BY,Belarus,82901,3,Ddos-guard Ltd,4199,5.07
+2026-11-14,BY,Belarus,82901,4,Beget LLC,3951,4.77
+2026-11-14,BY,Belarus,82901,5,Belarusian Cloud Technologies LLC,3835,4.63
+2026-11-14,VE,Venezuela,81173,1,Cloudflare,34151,42.07
+2026-11-14,VE,Venezuela,81173,2,Amazon (AWS),10513,12.95
+2026-11-14,VE,Venezuela,81173,3,Google,4149,5.11
+2026-11-14,VE,Venezuela,81173,4,Hostinger,2649,3.26
+2026-11-14,VE,Venezuela,81173,5,OVHcloud,1995,2.46
+2026-11-14,KZ,Kazakhstan,75420,1,Cloudflare,18060,23.95
+2026-11-14,KZ,Kazakhstan,75420,2,LLP Kompaniya Hoster.KZ,5195,6.89
+2026-11-14,KZ,Kazakhstan,75420,3,PS Internet Company LLP,4951,6.56
+2026-11-14,KZ,Kazakhstan,75420,4,Amazon (AWS),4153,5.51
+2026-11-14,KZ,Kazakhstan,75420,5,Beget LLC,3026,4.01
+2026-11-14,RS,Serbia,75374,1,Cloudflare,24694,32.76
+2026-11-14,RS,Serbia,75374,2,Hetzner,9204,12.21
+2026-11-14,RS,Serbia,75374,3,Amazon (AWS),6052,8.03
+2026-11-14,RS,Serbia,75374,4,United Internet Ltd.,2905,3.85
+2026-11-14,RS,Serbia,75374,5,TELEKOM SRBIJA a.d.,2015,2.67
+2026-11-14,HR,Croatia,73509,1,Cloudflare,25782,35.07
+2026-11-14,HR,Croatia,73509,2,Hetzner,7208,9.81
+2026-11-14,HR,Croatia,73509,3,Amazon (AWS),6545,8.90
+2026-11-14,HR,Croatia,73509,4,Plus Hosting Grupa d.o.o.,5112,6.95
+2026-11-14,HR,Croatia,73509,5,SETCOR d.o.o.,1663,2.26
+2026-11-14,KE,Kenya,73065,1,Cloudflare,30572,41.84
+2026-11-14,KE,Kenya,73065,2,Amazon (AWS),10967,15.01
+2026-11-14,KE,Kenya,73065,3,Google,2344,3.21
+2026-11-14,KE,Kenya,73065,4,Hostinger,2224,3.04
+2026-11-14,KE,Kenya,73065,5,Fastly,1478,2.02
+2026-11-14,CN,People's Republic of China,72036,1,Cloudflare,26930,37.38
+2026-11-14,CN,People's Republic of China,72036,2,Amazon (AWS),8049,11.17
+2026-11-14,CN,People's Republic of China,72036,3,"Hangzhou Alibaba Advertising Co.,Ltd.",5278,7.33
+2026-11-14,CN,People's Republic of China,72036,4,Fastly,1666,2.31
+2026-11-14,CN,People's Republic of China,72036,5,Shenzhen Tencent Computer Systems Company Limited,1625,2.26
+2026-11-14,EC,Ecuador,70392,1,Cloudflare,27409,38.94
+2026-11-14,EC,Ecuador,70392,2,Amazon (AWS),9153,13.00
+2026-11-14,EC,Ecuador,70392,3,Hostinger,3380,4.80
+2026-11-14,EC,Ecuador,70392,4,Google,3248,4.61
+2026-11-14,EC,Ecuador,70392,5,OVHcloud,1773,2.52
+2026-11-14,IQ,Iraq,66524,1,Cloudflare,34744,52.23
+2026-11-14,IQ,Iraq,66524,2,Amazon (AWS),6565,9.87
+2026-11-14,IQ,Iraq,66524,3,Google,2045,3.07
+2026-11-14,IQ,Iraq,66524,4,Hostinger,1948,2.93
+2026-11-14,IQ,Iraq,66524,5,OVHcloud,1334,2.01
+2026-11-14,UZ,Uzbekistan,61453,1,Cloudflare,21868,35.58
+2026-11-14,UZ,Uzbekistan,61453,2,Amazon (AWS),5479,8.92
+2026-11-14,UZ,Uzbekistan,61453,3,Beget LLC,1485,2.42
+2026-11-14,UZ,Uzbekistan,61453,4,Hetzner,1355,2.20
+2026-11-14,UZ,Uzbekistan,61453,5,Ddos-guard Ltd,1123,1.83
+2026-11-14,NP,Nepal,61061,1,Cloudflare,30906,50.61
+2026-11-14,NP,Nepal,61061,2,Amazon (AWS),7123,11.67
+2026-11-14,NP,Nepal,61061,3,Hostinger,1912,3.13
+2026-11-14,NP,Nepal,61061,4,Google,1825,2.99
+2026-11-14,NP,Nepal,61061,5,Akamai,1019,1.67
+2026-11-14,LT,Lithuania,57235,1,Cloudflare,20050,35.03
+2026-11-14,LT,Lithuania,57235,2,UAB Interneto vizija,8591,15.01
+2026-11-14,LT,Lithuania,57235,3,Hostinger,5196,9.08
+2026-11-14,LT,Lithuania,57235,4,Amazon (AWS),4428,7.74
+2026-11-14,LT,Lithuania,57235,5,Hetzner,1386,2.42
+2026-11-14,LK,Sri Lanka,56127,1,Cloudflare,26123,46.54
+2026-11-14,LK,Sri Lanka,56127,2,Amazon (AWS),7248,12.91
+2026-11-14,LK,Sri Lanka,56127,3,Google,2247,4.00
+2026-11-14,LK,Sri Lanka,56127,4,Hostinger,2213,3.94
+2026-11-14,LK,Sri Lanka,56127,5,Akamai,1069,1.90
+2026-11-14,TN,Tunisia,55105,1,Cloudflare,24735,44.89
+2026-11-14,TN,Tunisia,55105,2,Amazon (AWS),5919,10.74
+2026-11-14,TN,Tunisia,55105,3,OVHcloud,4756,8.63
+2026-11-14,TN,Tunisia,55105,4,Google,2268,4.12
+2026-11-14,TN,Tunisia,55105,5,Hostinger,1340,2.43
+2026-11-14,SI,Slovenia,47390,1,Cloudflare,14894,31.43
+2026-11-14,SI,Slovenia,47390,2,Optimus IT d.o.o.,4245,8.96
+2026-11-14,SI,Slovenia,47390,3,Amazon (AWS),4006,8.45
+2026-11-14,SI,Slovenia,47390,4,"Webtasy, d.o.o.",3640,7.68
+2026-11-14,SI,Slovenia,47390,5,Hetzner,2156,4.55
+2026-11-14,GT,Guatemala,47076,1,Cloudflare,20445,43.43
+2026-11-14,GT,Guatemala,47076,2,Amazon (AWS),6421,13.64
+2026-11-14,GT,Guatemala,47076,3,Google,1974,4.19
+2026-11-14,GT,Guatemala,47076,4,Hostinger,1511,3.21
+2026-11-14,GT,Guatemala,47076,5,Fastly,927,1.97
+2026-11-14,AZ,Azerbaijan,41553,1,Cloudflare,19254,46.34
+2026-11-14,AZ,Azerbaijan,41553,2,Amazon (AWS),3317,7.98
+2026-11-14,AZ,Azerbaijan,41553,3,Hetzner,1025,2.47
+2026-11-14,AZ,Azerbaijan,41553,4,Hostinger,896,2.16
+2026-11-14,AZ,Azerbaijan,41553,5,Google,763,1.84
+2026-11-14,DO,Dominican Republic,41501,1,Cloudflare,18438,44.43
+2026-11-14,DO,Dominican Republic,41501,2,Amazon (AWS),6070,14.63
+2026-11-14,DO,Dominican Republic,41501,3,Google,1638,3.95
+2026-11-14,DO,Dominican Republic,41501,4,Hostinger,1428,3.44
+2026-11-14,DO,Dominican Republic,41501,5,Akamai,970,2.34
+2026-11-14,CR,Costa Rica,40845,1,Cloudflare,17041,41.72
+2026-11-14,CR,Costa Rica,40845,2,Amazon (AWS),6203,15.19
+2026-11-14,CR,Costa Rica,40845,3,Google,1820,4.46
+2026-11-14,CR,Costa Rica,40845,4,Hostinger,1191,2.92
+2026-11-14,CR,Costa Rica,40845,5,Fastly,919,2.25
+2026-11-14,SY,Syria,40644,1,Cloudflare,21555,53.03
+2026-11-14,SY,Syria,40644,2,Amazon (AWS),3614,8.89
+2026-11-14,SY,Syria,40644,3,Google,1432,3.52
+2026-11-14,SY,Syria,40644,4,Hostinger,1366,3.36
+2026-11-14,SY,Syria,40644,5,Hetzner,937,2.31
+2026-11-14,JO,Jordan,39837,1,Cloudflare,20815,52.25
+2026-11-14,JO,Jordan,39837,2,Amazon (AWS),4373,10.98
+2026-11-14,JO,Jordan,39837,3,Google,1298,3.26
+2026-11-14,JO,Jordan,39837,4,Hostinger,1168,2.93
+2026-11-14,JO,Jordan,39837,5,Akamai,751,1.89
+2026-11-14,LV,Latvia,39629,1,Cloudflare,14446,36.45
+2026-11-14,LV,Latvia,39629,2,Amazon (AWS),3450,8.71
+2026-11-14,LV,Latvia,39629,3,Hetzner,1362,3.44
+2026-11-14,LV,Latvia,39629,4,LeaseWeb Netherlands B.V.,1017,2.57
+2026-11-14,LV,Latvia,39629,5,Sia Nano IT,897,2.26
+2026-11-14,BO,Bolivia,39569,1,Cloudflare,17282,43.68
+2026-11-14,BO,Bolivia,39569,2,Amazon (AWS),5168,13.06
+2026-11-14,BO,Bolivia,39569,3,Google,1622,4.10
+2026-11-14,BO,Bolivia,39569,4,Hostinger,1374,3.47
+2026-11-14,BO,Bolivia,39569,5,OVHcloud,912,2.30
+2026-11-14,EE,Estonia,39404,1,Cloudflare,11160,28.32
+2026-11-14,EE,Estonia,39404,2,Zone Media OU,7132,18.10
+2026-11-14,EE,Estonia,39404,3,Amazon (AWS),3215,8.16
+2026-11-14,EE,Estonia,39404,4,Elkdata OU,1995,5.06
+2026-11-14,EE,Estonia,39404,5,Hetzner,892,2.26
+2026-11-14,UY,Uruguay,39209,1,Cloudflare,14648,37.36
+2026-11-14,UY,Uruguay,39209,2,Amazon (AWS),5573,14.21
+2026-11-14,UY,Uruguay,39209,3,Hostinger,1531,3.90
+2026-11-14,UY,Uruguay,39209,4,Google,1490,3.80
+2026-11-14,UY,Uruguay,39209,5,Administracion Nacional de Telecomunicaciones,1413,3.60
+2026-11-14,QA,Qatar,36640,1,Cloudflare,18318,49.99
+2026-11-14,QA,Qatar,36640,2,Amazon (AWS),4620,12.61
+2026-11-14,QA,Qatar,36640,3,Google,1344,3.67
+2026-11-14,QA,Qatar,36640,4,Hostinger,1008,2.75
+2026-11-14,QA,Qatar,36640,5,Akamai,904,2.47
+2026-11-14,GH,Ghana,35814,1,Cloudflare,15247,42.57
+2026-11-14,GH,Ghana,35814,2,Amazon (AWS),5691,15.89
+2026-11-14,GH,Ghana,35814,3,Hostinger,1379,3.85
+2026-11-14,GH,Ghana,35814,4,Google,1185,3.31
+2026-11-14,GH,Ghana,35814,5,Fastly,876,2.45
+2026-11-14,MM,Myanmar,35344,1,Cloudflare,18416,52.11
+2026-11-14,MM,Myanmar,35344,2,Amazon (AWS),3839,10.86
+2026-11-14,MM,Myanmar,35344,3,Google,1110,3.14
+2026-11-14,MM,Myanmar,35344,4,ACE,704,1.99
+2026-11-14,MM,Myanmar,35344,5,Akamai,608,1.72
+2026-11-14,GE,Georgia,34973,1,Cloudflare,13681,39.12
+2026-11-14,GE,Georgia,34973,2,Amazon (AWS),3379,9.66
+2026-11-14,GE,Georgia,34973,3,Proservice LLC,1195,3.42
+2026-11-14,GE,Georgia,34973,4,Hetzner,824,2.36
+2026-11-14,GE,Georgia,34973,5,Google,738,2.11
+2026-11-14,ET,Ethiopia,33419,1,Cloudflare,15950,47.73
+2026-11-14,ET,Ethiopia,33419,2,Amazon (AWS),4615,13.81
+2026-11-14,ET,Ethiopia,33419,3,Google,1032,3.09
+2026-11-14,ET,Ethiopia,33419,4,Hostinger,694,2.08
+2026-11-14,ET,Ethiopia,33419,5,Fastly,678,2.03
+2026-11-14,CY,Cyprus,32713,1,Cloudflare,15049,46.00
+2026-11-14,CY,Cyprus,32713,2,Amazon (AWS),3669,11.22
+2026-11-14,CY,Cyprus,32713,3,Hetzner,1454,4.44
+2026-11-14,CY,Cyprus,32713,4,Akamai,814,2.49
+2026-11-14,CY,Cyprus,32713,5,Google,773,2.36
+2026-11-14,BA,Bosnia and Herzegovina,32699,1,Cloudflare,12246,37.45
+2026-11-14,BA,Bosnia and Herzegovina,32699,2,Hetzner,3888,11.89
+2026-11-14,BA,Bosnia and Herzegovina,32699,3,Amazon (AWS),2816,8.61
+2026-11-14,BA,Bosnia and Herzegovina,32699,4,Globalhost d.o.o.,1318,4.03
+2026-11-14,BA,Bosnia and Herzegovina,32699,5,Plus Hosting Grupa d.o.o.,659,2.02
+2026-11-14,MD,Moldova,32654,1,Cloudflare,10806,33.09
+2026-11-14,MD,Moldova,32654,2,Amazon (AWS),2387,7.31
+2026-11-14,MD,Moldova,32654,3,Hetzner,1025,3.14
+2026-11-14,MD,Moldova,32654,4,It Concept Srl,748,2.29
+2026-11-14,MD,Moldova,32654,5,Ddos-guard Ltd,712,2.18
+2026-11-14,PY,Paraguay,31748,1,Cloudflare,13941,43.91
+2026-11-14,PY,Paraguay,31748,2,Amazon (AWS),4310,13.58
+2026-11-14,PY,Paraguay,31748,3,Google,1155,3.64
+2026-11-14,PY,Paraguay,31748,4,Hostinger,975,3.07
+2026-11-14,PY,Paraguay,31748,5,OVHcloud,894,2.82
+2026-11-14,OM,Oman,31161,1,Cloudflare,15684,50.33
+2026-11-14,OM,Oman,31161,2,Amazon (AWS),3637,11.67
+2026-11-14,OM,Oman,31161,3,Google,1147,3.68
+2026-11-14,OM,Oman,31161,4,Hostinger,950,3.05
+2026-11-14,OM,Oman,31161,5,Akamai,669,2.15
+2026-11-14,SV,El Salvador,31041,1,Cloudflare,14099,45.42
+2026-11-14,SV,El Salvador,31041,2,Amazon (AWS),4425,14.26
+2026-11-14,SV,El Salvador,31041,3,Google,1191,3.84
+2026-11-14,SV,El Salvador,31041,4,Hostinger,910,2.93
+2026-11-14,SV,El Salvador,31041,5,Fastly,696,2.24
+2026-11-14,PA,Panama,30647,1,Cloudflare,13316,43.45
+2026-11-14,PA,Panama,30647,2,Amazon (AWS),4520,14.75
+2026-11-14,PA,Panama,30647,3,Google,1252,4.09
+2026-11-14,PA,Panama,30647,4,Hostinger,936,3.05
+2026-11-14,PA,Panama,30647,5,Akamai,745,2.43
+2026-11-14,CI,Ivory Coast,30565,1,Cloudflare,13040,42.66
+2026-11-14,CI,Ivory Coast,30565,2,Amazon (AWS),3764,12.31
+2026-11-14,CI,Ivory Coast,30565,3,OVHcloud,1678,5.49
+2026-11-14,CI,Ivory Coast,30565,4,Google,1155,3.78
+2026-11-14,CI,Ivory Coast,30565,5,Hostinger,1010,3.30
+2026-11-14,TZ,Tanzania,29858,1,Cloudflare,13667,45.77
+2026-11-14,TZ,Tanzania,29858,2,Amazon (AWS),3686,12.35
+2026-11-14,TZ,Tanzania,29858,3,Google,1213,4.06
+2026-11-14,TZ,Tanzania,29858,4,Hostinger,892,2.99
+2026-11-14,TZ,Tanzania,29858,5,DigitalOcean,713,2.39
+2026-11-14,PR,Puerto Rico,28899,1,Cloudflare,13051,45.16
+2026-11-14,PR,Puerto Rico,28899,2,Amazon (AWS),4889,16.92
+2026-11-14,PR,Puerto Rico,28899,3,Google,918,3.18
+2026-11-14,PR,Puerto Rico,28899,4,Akamai,904,3.13
+2026-11-14,PR,Puerto Rico,28899,5,Fastly,837,2.90
+2026-11-14,KH,Cambodia,28753,1,Cloudflare,14935,51.94
+2026-11-14,KH,Cambodia,28753,2,Amazon (AWS),3500,12.17
+2026-11-14,KH,Cambodia,28753,3,Google,887,3.08
+2026-11-14,KH,Cambodia,28753,4,DigitalOcean,593,2.06
+2026-11-14,KH,Cambodia,28753,5,Akamai,556,1.93
+2026-11-14,UG,Uganda,28682,1,Cloudflare,12757,44.48
+2026-11-14,UG,Uganda,28682,2,Amazon (AWS),3954,13.79
+2026-11-14,UG,Uganda,28682,3,Hostinger,1046,3.65
+2026-11-14,UG,Uganda,28682,4,Google,878,3.06
+2026-11-14,UG,Uganda,28682,5,Fastly,606,2.11
+2026-11-14,KG,Kyrgyzstan,28644,1,Cloudflare,9318,32.53
+2026-11-14,KG,Kyrgyzstan,28644,2,Amazon (AWS),1847,6.45
+2026-11-14,KG,Kyrgyzstan,28644,3,Beget LLC,991,3.46
+2026-11-14,KG,Kyrgyzstan,28644,4,Ddos-guard Ltd,792,2.76
+2026-11-14,KG,Kyrgyzstan,28644,5,JSC Selectel,780,2.72
+2026-11-14,KW,Kuwait,28236,1,Cloudflare,15027,53.22
+2026-11-14,KW,Kuwait,28236,2,Amazon (AWS),3510,12.43
+2026-11-14,KW,Kuwait,28236,3,Google,946,3.35
+2026-11-14,KW,Kuwait,28236,4,Hostinger,833,2.95
+2026-11-14,KW,Kuwait,28236,5,Akamai,688,2.44
+2026-11-14,HN,Honduras,27729,1,Cloudflare,12687,45.75
+2026-11-14,HN,Honduras,27729,2,Amazon (AWS),3939,14.21
+2026-11-14,HN,Honduras,27729,3,Google,1099,3.96
+2026-11-14,HN,Honduras,27729,4,Hostinger,754,2.72
+2026-11-14,HN,Honduras,27729,5,Akamai,621,2.24
+2026-11-14,LB,Lebanon,27281,1,Cloudflare,14412,52.83
+2026-11-14,LB,Lebanon,27281,2,Amazon (AWS),3260,11.95
+2026-11-14,LB,Lebanon,27281,3,Google,777,2.85
+2026-11-14,LB,Lebanon,27281,4,Hostinger,662,2.43
+2026-11-14,LB,Lebanon,27281,5,Akamai,574,2.10
+2026-11-14,LY,Libya,25212,1,Cloudflare,14029,55.64
+2026-11-14,LY,Libya,25212,2,Amazon (AWS),2228,8.84
+2026-11-14,LY,Libya,25212,3,Google,913,3.62
+2026-11-14,LY,Libya,25212,4,Hetzner,641,2.54
+2026-11-14,LY,Libya,25212,5,Hostinger,608,2.41
+2026-11-14,YE,Yemen,23368,1,Cloudflare,12709,54.39
+2026-11-14,YE,Yemen,23368,2,Amazon (AWS),2084,8.92
+2026-11-14,YE,Yemen,23368,3,Google,998,4.27
+2026-11-14,YE,Yemen,23368,4,Hostinger,906,3.88
+2026-11-14,YE,Yemen,23368,5,Hetzner,427,1.83
+2026-11-14,AM,Armenia,22829,1,Cloudflare,8304,36.37
+2026-11-14,AM,Armenia,22829,2,Amazon (AWS),1951,8.55
+2026-11-14,AM,Armenia,22829,3,Ddos-guard Ltd,516,2.26
+2026-11-14,AM,Armenia,22829,4,Hetzner,510,2.23
+2026-11-14,AM,Armenia,22829,5,OVHcloud,467,2.05
+2026-11-14,NI,Nicaragua,22474,1,Cloudflare,10386,46.21
+2026-11-14,NI,Nicaragua,22474,2,Amazon (AWS),3124,13.90
+2026-11-14,NI,Nicaragua,22474,3,Google,934,4.16
+2026-11-14,NI,Nicaragua,22474,4,Hostinger,674,3.00
+2026-11-14,NI,Nicaragua,22474,5,Fastly,476,2.12
+2026-11-14,CM,Cameroon,21672,1,Cloudflare,9224,42.56
+2026-11-14,CM,Cameroon,21672,2,Amazon (AWS),2916,13.46
+2026-11-14,CM,Cameroon,21672,3,OVHcloud,900,4.15
+2026-11-14,CM,Cameroon,21672,4,Hostinger,801,3.70
+2026-11-14,CM,Cameroon,21672,5,Google,716,3.30
+2026-11-14,SN,Senegal,21180,1,Cloudflare,8848,41.78
+2026-11-14,SN,Senegal,21180,2,Amazon (AWS),2670,12.61
+2026-11-14,SN,Senegal,21180,3,OVHcloud,1139,5.38
+2026-11-14,SN,Senegal,21180,4,Google,690,3.26
+2026-11-14,SN,Senegal,21180,5,Hostinger,651,3.07
+2026-11-14,AL,Albania,20743,1,Cloudflare,9441,45.51
+2026-11-14,AL,Albania,20743,2,Amazon (AWS),2621,12.64
+2026-11-14,AL,Albania,20743,3,Akamai,656,3.16
+2026-11-14,AL,Albania,20743,4,Hetzner,598,2.88
+2026-11-14,AL,Albania,20743,5,Google,533,2.57
+2026-11-14,CD,Democratic Republic of the Congo,20009,1,Cloudflare,8741,43.69
+2026-11-14,CD,Democratic Republic of the Congo,20009,2,Amazon (AWS),2554,12.76
+2026-11-14,CD,Democratic Republic of the Congo,20009,3,OVHcloud,774,3.87
+2026-11-14,CD,Democratic Republic of the Congo,20009,4,Hostinger,698,3.49
+2026-11-14,CD,Democratic Republic of the Congo,20009,5,Google,641,3.20
+2026-11-14,MK,North Macedonia,19200,1,Cloudflare,7954,41.43
+2026-11-14,MK,North Macedonia,19200,2,Amazon (AWS),2045,10.65
+2026-11-14,MK,North Macedonia,19200,3,Hetzner,1822,9.49
+2026-11-14,MK,North Macedonia,19200,4,Akamai,472,2.46
+2026-11-14,MK,North Macedonia,19200,5,Google,426,2.22
+2026-11-14,ZW,Zimbabwe,19152,1,Cloudflare,8599,44.90
+2026-11-14,ZW,Zimbabwe,19152,2,Amazon (AWS),2774,14.48
+2026-11-14,ZW,Zimbabwe,19152,3,Google,636,3.32
+2026-11-14,ZW,Zimbabwe,19152,4,Fastly,439,2.29
+2026-11-14,ZW,Zimbabwe,19152,5,Akamai,436,2.28
+2026-11-14,JM,Jamaica,18609,1,Cloudflare,9004,48.39
+2026-11-14,JM,Jamaica,18609,2,Amazon (AWS),2981,16.02
+2026-11-14,JM,Jamaica,18609,3,Google,593,3.19
+2026-11-14,JM,Jamaica,18609,4,Akamai,585,3.14
+2026-11-14,JM,Jamaica,18609,5,Fastly,524,2.82
+2026-11-14,ZM,Zambia,18547,1,Cloudflare,8704,46.93
+2026-11-14,ZM,Zambia,18547,2,Amazon (AWS),2617,14.11
+2026-11-14,ZM,Zambia,18547,3,Google,566,3.05
+2026-11-14,ZM,Zambia,18547,4,DigitalOcean,475,2.56
+2026-11-14,ZM,Zambia,18547,5,Hostinger,455,2.45
+2026-11-14,MT,Malta,17882,1,Cloudflare,7940,44.40
+2026-11-14,MT,Malta,17882,2,Amazon (AWS),2814,15.74
+2026-11-14,MT,Malta,17882,3,Google,616,3.44
+2026-11-14,MT,Malta,17882,4,Akamai,610,3.41
+2026-11-14,MT,Malta,17882,5,Fastly,467,2.61
+2026-11-14,AO,Angola,17338,1,Cloudflare,8272,47.71
+2026-11-14,AO,Angola,17338,2,Amazon (AWS),2275,13.12
+2026-11-14,AO,Angola,17338,3,Google,604,3.48
+2026-11-14,AO,Angola,17338,4,Hostinger,548,3.16
+2026-11-14,AO,Angola,17338,5,Akamai,385,2.22
+2026-11-14,SD,Sudan,17246,1,Cloudflare,8676,50.31
+2026-11-14,SD,Sudan,17246,2,Amazon (AWS),1516,8.79
+2026-11-14,SD,Sudan,17246,3,Google,802,4.65
+2026-11-14,SD,Sudan,17246,4,Hostinger,728,4.22
+2026-11-14,SD,Sudan,17246,5,Hetzner,408,2.37
+2026-11-14,BH,Bahrain,17194,1,Cloudflare,9123,53.06
+2026-11-14,BH,Bahrain,17194,2,Amazon (AWS),2281,13.27
+2026-11-14,BH,Bahrain,17194,3,Google,529,3.08
+2026-11-14,BH,Bahrain,17194,4,Akamai,449,2.61
+2026-11-14,BH,Bahrain,17194,5,Fastly,354,2.06
+2026-11-14,LA,Laos,16779,1,Cloudflare,9224,54.97
+2026-11-14,LA,Laos,16779,2,Amazon (AWS),1793,10.69
+2026-11-14,LA,Laos,16779,3,Google,545,3.25
+2026-11-14,LA,Laos,16779,4,Akamai,282,1.68
+2026-11-14,LA,Laos,16779,5,Fastly,238,1.42
+2026-11-14,PS,Palestine,16527,1,Cloudflare,8842,53.50
+2026-11-14,PS,Palestine,16527,2,Amazon (AWS),1742,10.54
+2026-11-14,PS,Palestine,16527,3,Google,560,3.39
+2026-11-14,PS,Palestine,16527,4,Hetzner,439,2.66
+2026-11-14,PS,Palestine,16527,5,Hostinger,411,2.49
+2026-11-14,RE,Réunion,16471,1,Cloudflare,5981,36.31
+2026-11-14,RE,Réunion,16471,2,OVHcloud,2526,15.34
+2026-11-14,RE,Réunion,16471,3,Amazon (AWS),1713,10.40
+2026-11-14,RE,Réunion,16471,4,o2switch,438,2.66
+2026-11-14,RE,Réunion,16471,5,Google,409,2.48
+2026-11-14,TT,Trinidad and Tobago,16391,1,Cloudflare,7960,48.56
+2026-11-14,TT,Trinidad and Tobago,16391,2,Amazon (AWS),2466,15.04
+2026-11-14,TT,Trinidad and Tobago,16391,3,Google,577,3.52
+2026-11-14,TT,Trinidad and Tobago,16391,4,Akamai,508,3.10
+2026-11-14,TT,Trinidad and Tobago,16391,5,Fastly,492,3.00
+2026-11-14,AF,Afghanistan,16137,1,Cloudflare,6685,41.43
+2026-11-14,AF,Afghanistan,16137,2,Amazon (AWS),1455,9.02
+2026-11-14,AF,Afghanistan,16137,3,OVHcloud,485,3.01
+2026-11-14,AF,Afghanistan,16137,4,Hostiserver Ltd,438,2.71
+2026-11-14,AF,Afghanistan,16137,5,Hetzner,357,2.21
+2026-11-14,LU,Luxembourg,15727,1,Cloudflare,5235,33.29
+2026-11-14,LU,Luxembourg,15727,2,Amazon (AWS),2365,15.04
+2026-11-14,LU,Luxembourg,15727,3,OVHcloud,786,5.00
+2026-11-14,LU,Luxembourg,15727,4,Akamai,606,3.85
+2026-11-14,LU,Luxembourg,15727,5,Hetzner,556,3.54
+2026-11-14,MZ,Mozambique,15081,1,Cloudflare,7201,47.75
+2026-11-14,MZ,Mozambique,15081,2,Amazon (AWS),1952,12.94
+2026-11-14,MZ,Mozambique,15081,3,Google,574,3.81
+2026-11-14,MZ,Mozambique,15081,4,DigitalOcean,420,2.78
+2026-11-14,MZ,Mozambique,15081,5,Hostinger,418,2.77
+2026-11-14,MG,Madagascar,14779,1,Cloudflare,6794,45.97
+2026-11-14,MG,Madagascar,14779,2,Amazon (AWS),1962,13.28
+2026-11-14,MG,Madagascar,14779,3,OVHcloud,729,4.93
+2026-11-14,MG,Madagascar,14779,4,Google,471,3.19
+2026-11-14,MG,Madagascar,14779,5,Akamai,301,2.04
+2026-11-14,CU,Cuba,14455,1,Cloudflare,6578,45.51
+2026-11-14,CU,Cuba,14455,2,Amazon (AWS),1839,12.72
+2026-11-14,CU,Cuba,14455,3,Hostinger,503,3.48
+2026-11-14,CU,Cuba,14455,4,Google,454,3.14
+2026-11-14,CU,Cuba,14455,5,OVHcloud,371,2.57
+2026-11-14,MN,Mongolia,14152,1,Cloudflare,6052,42.76
+2026-11-14,MN,Mongolia,14152,2,Amazon (AWS),1985,14.03
+2026-11-14,MN,Mongolia,14152,3,Google,410,2.90
+2026-11-14,MN,Mongolia,14152,4,DigitalOcean,361,2.55
+2026-11-14,MN,Mongolia,14152,5,Akamai,330,2.33
+2026-11-14,MU,Mauritius,13694,1,Cloudflare,6618,48.33
+2026-11-14,MU,Mauritius,13694,2,Amazon (AWS),1879,13.72
+2026-11-14,MU,Mauritius,13694,3,Akamai,412,3.01
+2026-11-14,MU,Mauritius,13694,4,Google,400,2.92
+2026-11-14,MU,Mauritius,13694,5,OVHcloud,324,2.37
+2026-11-14,TJ,Tajikistan,13474,1,Cloudflare,4190,31.10
+2026-11-14,TJ,Tajikistan,13474,2,Amazon (AWS),741,5.50
+2026-11-14,TJ,Tajikistan,13474,3,JSC Selectel,386,2.86
+2026-11-14,TJ,Tajikistan,13474,4,Beget LLC,351,2.61
+2026-11-14,TJ,Tajikistan,13474,5,Ddos-guard Ltd,344,2.55
+2026-11-14,BF,Burkina Faso,12996,1,Cloudflare,5376,41.37
+2026-11-14,BF,Burkina Faso,12996,2,Amazon (AWS),1633,12.57
+2026-11-14,BF,Burkina Faso,12996,3,Google,1059,8.15
+2026-11-14,BF,Burkina Faso,12996,4,OVHcloud,555,4.27
+2026-11-14,BF,Burkina Faso,12996,5,Hostinger,340,2.62
+2026-11-14,SO,Somalia,12904,1,Cloudflare,6766,52.43
+2026-11-14,SO,Somalia,12904,2,Amazon (AWS),1533,11.88
+2026-11-14,SO,Somalia,12904,3,Google,412,3.19
+2026-11-14,SO,Somalia,12904,4,Hostinger,287,2.22
+2026-11-14,SO,Somalia,12904,5,Fastly,274,2.12
+2026-11-14,ME,Montenegro,12715,1,Cloudflare,4749,37.35
+2026-11-14,ME,Montenegro,12715,2,Amazon (AWS),1236,9.72
+2026-11-14,ME,Montenegro,12715,3,Hetzner,1149,9.04
+2026-11-14,ME,Montenegro,12715,4,United Internet Ltd.,341,2.68
+2026-11-14,ME,Montenegro,12715,5,Akamai,327,2.57
+2026-11-14,BJ,Benin,12520,1,Cloudflare,5216,41.66
+2026-11-14,BJ,Benin,12520,2,Amazon (AWS),1817,14.51
+2026-11-14,BJ,Benin,12520,3,OVHcloud,600,4.79
+2026-11-14,BJ,Benin,12520,4,Hostinger,432,3.45
+2026-11-14,BJ,Benin,12520,5,Google,403,3.22
+2026-11-14,IS,Iceland,12182,1,Cloudflare,4638,38.07
+2026-11-14,IS,Iceland,12182,2,Amazon (AWS),2368,19.44
+2026-11-14,IS,Iceland,12182,3,Akamai,372,3.05
+2026-11-14,IS,Iceland,12182,4,1984 ehf,364,2.99
+2026-11-14,IS,Iceland,12182,5,Fastly,336,2.76
+2026-11-14,RW,Rwanda,11653,1,Cloudflare,4880,41.88
+2026-11-14,RW,Rwanda,11653,2,Amazon (AWS),1857,15.94
+2026-11-14,RW,Rwanda,11653,3,Google,362,3.11
+2026-11-14,RW,Rwanda,11653,4,DigitalOcean,347,2.98
+2026-11-14,RW,Rwanda,11653,5,KT RWANDA NETWORK Ltd,306,2.63
+2026-11-14,TM,Turkmenistan,11183,1,Cloudflare,3493,31.23
+2026-11-14,TM,Turkmenistan,11183,2,Amazon (AWS),600,5.37
+2026-11-14,TM,Turkmenistan,11183,3,State Company of Electro Communications Turkmentelecom,316,2.83
+2026-11-14,TM,Turkmenistan,11183,4,OVHcloud,250,2.24
+2026-11-14,TM,Turkmenistan,11183,5,JSC Selectel,226,2.02
+2026-11-14,PG,Papua New Guinea,10564,1,Cloudflare,4956,46.91
+2026-11-14,PG,Papua New Guinea,10564,2,Amazon (AWS),1423,13.47
+2026-11-14,PG,Papua New Guinea,10564,3,"Alibaba (US) Technology Co., Ltd.",443,4.19
+2026-11-14,PG,Papua New Guinea,10564,4,Google,338,3.20
+2026-11-14,PG,Papua New Guinea,10564,5,Hostinger,274,2.59
+2026-11-14,MW,Malawi,9965,1,Cloudflare,4495,45.11
+2026-11-14,MW,Malawi,9965,2,Amazon (AWS),1478,14.83
+2026-11-14,MW,Malawi,9965,3,DigitalOcean,331,3.32
+2026-11-14,MW,Malawi,9965,4,Google,325,3.26
+2026-11-14,MW,Malawi,9965,5,Fastly,265,2.66
+2026-11-14,ML,Mali,9953,1,Cloudflare,4055,40.74
+2026-11-14,ML,Mali,9953,2,Amazon (AWS),1135,11.40
+2026-11-14,ML,Mali,9953,3,Google,920,9.24
+2026-11-14,ML,Mali,9953,4,OVHcloud,404,4.06
+2026-11-14,ML,Mali,9953,5,DigitalOcean,293,2.94
+2026-11-14,TG,Togo,9770,1,Cloudflare,4298,43.99
+2026-11-14,TG,Togo,9770,2,Amazon (AWS),1319,13.50
+2026-11-14,TG,Togo,9770,3,OVHcloud,398,4.07
+2026-11-14,TG,Togo,9770,4,Google,300,3.07
+2026-11-14,TG,Togo,9770,5,Hostinger,264,2.70
+2026-11-14,BW,Botswana,9347,1,Cloudflare,4357,46.61
+2026-11-14,BW,Botswana,9347,2,Amazon (AWS),1460,15.62
+2026-11-14,BW,Botswana,9347,3,Google,313,3.35
+2026-11-14,BW,Botswana,9347,4,Fastly,266,2.85
+2026-11-14,BW,Botswana,9347,5,Akamai,251,2.69
+2026-11-14,MV,Maldives,9311,1,Cloudflare,4742,50.93
+2026-11-14,MV,Maldives,9311,2,Amazon (AWS),1207,12.96
+2026-11-14,MV,Maldives,9311,3,Google,320,3.44
+2026-11-14,MV,Maldives,9311,4,Akamai,274,2.94
+2026-11-14,MV,Maldives,9311,5,Serverel Inc.,202,2.17
+2026-11-14,HT,Haiti,9025,1,Cloudflare,3903,43.25
+2026-11-14,HT,Haiti,9025,2,Amazon (AWS),1337,14.81
+2026-11-14,HT,Haiti,9025,3,Google,326,3.61
+2026-11-14,HT,Haiti,9025,4,OVHcloud,285,3.16
+2026-11-14,HT,Haiti,9025,5,Hostinger,271,3.00
+2026-11-14,MQ,Martinique,8940,1,Cloudflare,3191,35.69
+2026-11-14,MQ,Martinique,8940,2,OVHcloud,1236,13.83
+2026-11-14,MQ,Martinique,8940,3,Amazon (AWS),1026,11.48
+2026-11-14,MQ,Martinique,8940,4,Google,240,2.68
+2026-11-14,MQ,Martinique,8940,5,Akamai,203,2.27
+2026-11-14,GA,Gabon,8838,1,Cloudflare,4210,47.64
+2026-11-14,GA,Gabon,8838,2,Amazon (AWS),924,10.45
+2026-11-14,GA,Gabon,8838,3,Google,399,4.51
+2026-11-14,GA,Gabon,8838,4,OVHcloud,362,4.10
+2026-11-14,GA,Gabon,8838,5,Akamai,189,2.14
+2026-11-14,GP,Guadeloupe,8791,1,Cloudflare,3121,35.50
+2026-11-14,GP,Guadeloupe,8791,2,OVHcloud,1152,13.10
+2026-11-14,GP,Guadeloupe,8791,3,Amazon (AWS),1054,11.99
+2026-11-14,GP,Guadeloupe,8791,4,Google,239,2.72
+2026-11-14,GP,Guadeloupe,8791,5,Akamai,192,2.18
+2026-11-14,NA,Namibia,8651,1,Cloudflare,3777,43.66
+2026-11-14,NA,Namibia,8651,2,Amazon (AWS),1350,15.61
+2026-11-14,NA,Namibia,8651,3,Google,257,2.97
+2026-11-14,NA,Namibia,8651,4,Xneelo (Pty) Ltd,247,2.86
+2026-11-14,NA,Namibia,8651,5,Fastly,246,2.84
+2026-11-14,GN,Guinea,8240,1,Cloudflare,3654,44.34
+2026-11-14,GN,Guinea,8240,2,Amazon (AWS),1041,12.63
+2026-11-14,GN,Guinea,8240,3,Google,465,5.64
+2026-11-14,GN,Guinea,8240,4,OVHcloud,272,3.30
+2026-11-14,GN,Guinea,8240,5,Hostinger,231,2.80
+2026-11-14,BN,Brunei,7507,1,Cloudflare,3825,50.95
+2026-11-14,BN,Brunei,7507,2,Amazon (AWS),1034,13.77
+2026-11-14,BN,Brunei,7507,3,Google,256,3.41
+2026-11-14,BN,Brunei,7507,4,Akamai,205,2.73
+2026-11-14,BN,Brunei,7507,5,Fastly,197,2.62
+2026-11-14,GY,Guyana,7409,1,Cloudflare,3560,48.05
+2026-11-14,GY,Guyana,7409,2,Amazon (AWS),1152,15.55
+2026-11-14,GY,Guyana,7409,3,Akamai,283,3.82
+2026-11-14,GY,Guyana,7409,4,Fastly,239,3.23
+2026-11-14,GY,Guyana,7409,5,Google,230,3.10
+2026-11-14,CG,Republic of the Congo,7009,1,Cloudflare,3126,44.60
+2026-11-14,CG,Republic of the Congo,7009,2,Amazon (AWS),950,13.55
+2026-11-14,CG,Republic of the Congo,7009,3,OVHcloud,316,4.51
+2026-11-14,CG,Republic of the Congo,7009,4,Google,221,3.15
+2026-11-14,CG,Republic of the Congo,7009,5,Akamai,161,2.30
+2026-11-14,MR,Mauritania,6153,1,Cloudflare,3263,53.03
+2026-11-14,MR,Mauritania,6153,2,Amazon (AWS),615,10.00
+2026-11-14,MR,Mauritania,6153,3,Google,203,3.30
+2026-11-14,MR,Mauritania,6153,4,OVHcloud,139,2.26
+2026-11-14,MR,Mauritania,6153,5,Hostinger,122,1.98
+2026-11-14,MO,Macau,5941,1,Cloudflare,2138,35.99
+2026-11-14,MO,Macau,5941,2,Amazon (AWS),842,14.17
+2026-11-14,MO,Macau,5941,3,Akamai,219,3.69
+2026-11-14,MO,Macau,5941,4,Google,198,3.33
+2026-11-14,MO,Macau,5941,5,"Hangzhou Alibaba Advertising Co.,Ltd.",181,3.05
+2026-11-14,XK,Kosovo,5876,1,Cloudflare,2929,49.85
+2026-11-14,XK,Kosovo,5876,2,Amazon (AWS),631,10.74
+2026-11-14,XK,Kosovo,5876,3,Hetzner,249,4.24
+2026-11-14,XK,Kosovo,5876,4,Google,159,2.71
+2026-11-14,XK,Kosovo,5876,5,Akamai,140,2.38
+2026-11-14,TD,Chad,5737,1,Cloudflare,2494,43.47
+2026-11-14,TD,Chad,5737,2,Google,619,10.79
+2026-11-14,TD,Chad,5737,3,Amazon (AWS),599,10.44
+2026-11-14,TD,Chad,5737,4,OVHcloud,151,2.63
+2026-11-14,TD,Chad,5737,5,Hostinger,129,2.25
+2026-11-14,NE,Niger,5711,1,Cloudflare,2435,42.64
+2026-11-14,NE,Niger,5711,2,Amazon (AWS),690,12.08
+2026-11-14,NE,Niger,5711,3,Google,421,7.37
+2026-11-14,NE,Niger,5711,4,OVHcloud,189,3.31
+2026-11-14,NE,Niger,5711,5,DigitalOcean,142,2.49
+2026-11-14,BS,The Bahamas,5466,1,Cloudflare,2200,40.25
+2026-11-14,BS,The Bahamas,5466,2,Amazon (AWS),1037,18.97
+2026-11-14,BS,The Bahamas,5466,3,Akamai,321,5.87
+2026-11-14,BS,The Bahamas,5466,4,Fastly,284,5.20
+2026-11-14,BS,The Bahamas,5466,5,Google,196,3.59
+2026-11-14,FJ,Fiji,5454,1,Cloudflare,2507,45.97
+2026-11-14,FJ,Fiji,5454,2,Amazon (AWS),847,15.53
+2026-11-14,FJ,Fiji,5454,3,Akamai,196,3.59
+2026-11-14,FJ,Fiji,5454,4,Fastly,171,3.14
+2026-11-14,FJ,Fiji,5454,5,Google,160,2.93
+2026-11-14,BB,Barbados,5196,1,Cloudflare,2184,42.03
+2026-11-14,BB,Barbados,5196,2,Amazon (AWS),975,18.76
+2026-11-14,BB,Barbados,5196,3,Akamai,267,5.14
+2026-11-14,BB,Barbados,5196,4,Fastly,243,4.68
+2026-11-14,BB,Barbados,5196,5,Google,176,3.39
+2026-11-14,SR,Suriname,5102,1,Cloudflare,2273,44.55
+2026-11-14,SR,Suriname,5102,2,Amazon (AWS),687,13.47
+2026-11-14,SR,Suriname,5102,3,Akamai,213,4.17
+2026-11-14,SR,Suriname,5102,4,Google,158,3.10
+2026-11-14,SR,Suriname,5102,5,Fastly,147,2.88
+2026-11-14,BT,Bhutan,4671,1,Cloudflare,2224,47.61
+2026-11-14,BT,Bhutan,4671,2,Amazon (AWS),677,14.49
+2026-11-14,BT,Bhutan,4671,3,Google,153,3.28
+2026-11-14,BT,Bhutan,4671,4,Akamai,140,3.00
+2026-11-14,BT,Bhutan,4671,5,Fastly,122,2.61
+2026-11-14,SZ,Eswatini,4492,1,Cloudflare,2023,45.04
+2026-11-14,SZ,Eswatini,4492,2,Amazon (AWS),646,14.38
+2026-11-14,SZ,Eswatini,4492,3,Google,177,3.94
+2026-11-14,SZ,Eswatini,4492,4,Fastly,153,3.41
+2026-11-14,SZ,Eswatini,4492,5,Akamai,125,2.78
+2026-11-14,BZ,Belize,4401,1,Cloudflare,1999,45.42
+2026-11-14,BZ,Belize,4401,2,Amazon (AWS),694,15.77
+2026-11-14,BZ,Belize,4401,3,Akamai,192,4.36
+2026-11-14,BZ,Belize,4401,4,Fastly,178,4.04
+2026-11-14,BZ,Belize,4401,5,Google,150,3.41
+2026-11-14,SL,Sierra Leone,4329,1,Cloudflare,1942,44.86
+2026-11-14,SL,Sierra Leone,4329,2,Amazon (AWS),709,16.38
+2026-11-14,SL,Sierra Leone,4329,3,Google,158,3.65
+2026-11-14,SL,Sierra Leone,4329,4,Akamai,146,3.37
+2026-11-14,SL,Sierra Leone,4329,5,Fastly,130,3.00
+2026-11-14,LR,Liberia,4302,1,Cloudflare,1855,43.12
+2026-11-14,LR,Liberia,4302,2,Amazon (AWS),691,16.06
+2026-11-14,LR,Liberia,4302,3,DigitalOcean,172,4.00
+2026-11-14,LR,Liberia,4302,4,Google,146,3.39
+2026-11-14,LR,Liberia,4302,5,Akamai,142,3.30
+2026-11-14,PF,French Polynesia,4180,1,Cloudflare,1663,39.78
+2026-11-14,PF,French Polynesia,4180,2,Amazon (AWS),549,13.13
+2026-11-14,PF,French Polynesia,4180,3,OVHcloud,307,7.34
+2026-11-14,PF,French Polynesia,4180,4,Akamai,133,3.18
+2026-11-14,PF,French Polynesia,4180,5,Google,123,2.94
+2026-11-14,TL,East Timor,4097,1,Cloudflare,2145,52.36
+2026-11-14,TL,East Timor,4097,2,Amazon (AWS),421,10.28
+2026-11-14,TL,East Timor,4097,3,Google,138,3.37
+2026-11-14,TL,East Timor,4097,4,"Servers.com, Inc.",89,2.17
+2026-11-14,TL,East Timor,4097,5,DigitalOcean,81,1.98
+2026-11-14,CV,Cape Verde,3822,1,Cloudflare,1617,42.31
+2026-11-14,CV,Cape Verde,3822,2,Amazon (AWS),617,16.14
+2026-11-14,CV,Cape Verde,3822,3,Akamai,157,4.11
+2026-11-14,CV,Cape Verde,3822,4,Google,131,3.43
+2026-11-14,CV,Cape Verde,3822,5,Fastly,110,2.88
+2026-11-14,GF,French Guiana,3786,1,Cloudflare,1435,37.90
+2026-11-14,GF,French Guiana,3786,2,Amazon (AWS),485,12.81
+2026-11-14,GF,French Guiana,3786,3,OVHcloud,355,9.38
+2026-11-14,GF,French Guiana,3786,4,Google,123,3.25
+2026-11-14,GF,French Guiana,3786,5,Akamai,108,2.85
+2026-11-14,LS,Lesotho,3726,1,Cloudflare,1656,44.44
+2026-11-14,LS,Lesotho,3726,2,Amazon (AWS),612,16.43
+2026-11-14,LS,Lesotho,3726,3,Fastly,122,3.27
+2026-11-14,LS,Lesotho,3726,4,Google,107,2.87
+2026-11-14,LS,Lesotho,3726,5,Akamai,105,2.82
+2026-11-14,NC,New Caledonia,3603,1,Cloudflare,1344,37.30
+2026-11-14,NC,New Caledonia,3603,2,Amazon (AWS),455,12.63
+2026-11-14,NC,New Caledonia,3603,3,OVHcloud,288,7.99
+2026-11-14,NC,New Caledonia,3603,4,Google,177,4.91
+2026-11-14,NC,New Caledonia,3603,5,CANL,116,3.22
+2026-11-14,SS,South Sudan,3593,1,Cloudflare,1772,49.32
+2026-11-14,SS,South Sudan,3593,2,Amazon (AWS),517,14.39
+2026-11-14,SS,South Sudan,3593,3,Google,116,3.23
+2026-11-14,SS,South Sudan,3593,4,Akamai,106,2.95
+2026-11-14,SS,South Sudan,3593,5,Fastly,99,2.76
+2026-11-14,AD,Andorra,3477,1,Cloudflare,1058,30.43
+2026-11-14,AD,Andorra,3477,2,Amazon (AWS),705,20.28
+2026-11-14,AD,Andorra,3477,3,Akamai,177,5.09
+2026-11-14,AD,Andorra,3477,4,Fastly,155,4.46
+2026-11-14,AD,Andorra,3477,5,Google,139,4.00
+2026-11-14,CW,Curaçao,3299,1,Cloudflare,1175,35.62
+2026-11-14,CW,Curaçao,3299,2,Amazon (AWS),567,17.19
+2026-11-14,CW,Curaçao,3299,3,Akamai,210,6.37
+2026-11-14,CW,Curaçao,3299,4,Google,146,4.43
+2026-11-14,CW,Curaçao,3299,5,Fastly,142,4.30
+2026-11-14,BI,Burundi,3247,1,Cloudflare,1541,47.46
+2026-11-14,BI,Burundi,3247,2,Amazon (AWS),448,13.80
+2026-11-14,BI,Burundi,3247,3,Google,94,2.89
+2026-11-14,BI,Burundi,3247,4,Akamai,82,2.53
+2026-11-14,BI,Burundi,3247,5,Fastly,71,2.19
+2026-11-14,GM,The Gambia,3230,1,Cloudflare,1447,44.80
+2026-11-14,GM,The Gambia,3230,2,Amazon (AWS),494,15.29
+2026-11-14,GM,The Gambia,3230,3,Akamai,125,3.87
+2026-11-14,GM,The Gambia,3230,4,Google,110,3.41
+2026-11-14,GM,The Gambia,3230,5,Fastly,95,2.94
+2026-11-14,GU,Guam,2864,1,Cloudflare,1100,38.41
+2026-11-14,GU,Guam,2864,2,Amazon (AWS),565,19.73
+2026-11-14,GU,Guam,2864,3,Akamai,183,6.39
+2026-11-14,GU,Guam,2864,4,Fastly,155,5.41
+2026-11-14,GU,Guam,2864,5,Google,99,3.46
+2026-11-14,AW,Aruba,2779,1,Cloudflare,974,35.05
+2026-11-14,AW,Aruba,2779,2,Amazon (AWS),529,19.04
+2026-11-14,AW,Aruba,2779,3,Akamai,195,7.02
+2026-11-14,AW,Aruba,2779,4,Fastly,138,4.97
+2026-11-14,AW,Aruba,2779,5,Google,104,3.74
+2026-11-14,DJ,Djibouti,2753,1,Cloudflare,1291,46.89
+2026-11-14,DJ,Djibouti,2753,2,Amazon (AWS),314,11.41
+2026-11-14,DJ,Djibouti,2753,3,OVHcloud,85,3.09
+2026-11-14,DJ,Djibouti,2753,4,Akamai,83,3.01
+2026-11-14,DJ,Djibouti,2753,5,Google,83,3.01
+2026-11-14,LC,Saint Lucia,2636,1,Cloudflare,1162,44.08
+2026-11-14,LC,Saint Lucia,2636,2,Amazon (AWS),458,17.37
+2026-11-14,LC,Saint Lucia,2636,3,Akamai,144,5.46
+2026-11-14,LC,Saint Lucia,2636,4,Fastly,134,5.08
+2026-11-14,LC,Saint Lucia,2636,5,Google,91,3.45
+2026-11-14,EH,Western Sahara,2621,1,Cloudflare,1403,53.53
+2026-11-14,EH,Western Sahara,2621,2,Amazon (AWS),253,9.65
+2026-11-14,EH,Western Sahara,2621,3,Google,96,3.66
+2026-11-14,EH,Western Sahara,2621,4,Akamai,54,2.06
+2026-11-14,EH,Western Sahara,2621,5,OVHcloud,51,1.95
+2026-11-14,SC,Seychelles,2368,1,Cloudflare,976,41.22
+2026-11-14,SC,Seychelles,2368,2,Amazon (AWS),324,13.68
+2026-11-14,SC,Seychelles,2368,3,Akamai,91,3.84
+2026-11-14,SC,Seychelles,2368,4,Google,82,3.46
+2026-11-14,SC,Seychelles,2368,5,Fastly,75,3.17
+2026-11-14,JE,Jersey,2241,1,Cloudflare,756,33.73
+2026-11-14,JE,Jersey,2241,2,Amazon (AWS),551,24.59
+2026-11-14,JE,Jersey,2241,3,Akamai,139,6.20
+2026-11-14,JE,Jersey,2241,4,Fastly,132,5.89
+2026-11-14,JE,Jersey,2241,5,Google,93,4.15
+2026-11-14,IM,Isle of Man,2168,1,Cloudflare,695,32.06
+2026-11-14,IM,Isle of Man,2168,2,Amazon (AWS),529,24.40
+2026-11-14,IM,Isle of Man,2168,3,Akamai,161,7.43
+2026-11-14,IM,Isle of Man,2168,4,Fastly,142,6.55
+2026-11-14,IM,Isle of Man,2168,5,Microsoft,85,3.92
+2026-11-14,YT,Mayotte,2035,1,Cloudflare,788,38.72
+2026-11-14,YT,Mayotte,2035,2,Amazon (AWS),241,11.84
+2026-11-14,YT,Mayotte,2035,3,OVHcloud,173,8.50
+2026-11-14,YT,Mayotte,2035,4,Google,64,3.14
+2026-11-14,YT,Mayotte,2035,5,Akamai,59,2.90
+2026-11-14,AG,Antigua and Barbuda,1958,1,Cloudflare,708,36.16
+2026-11-14,AG,Antigua and Barbuda,1958,2,Amazon (AWS),321,16.39
+2026-11-14,AG,Antigua and Barbuda,1958,3,Fastly,109,5.57
+2026-11-14,AG,Antigua and Barbuda,1958,4,Akamai,105,5.36
+2026-11-14,AG,Antigua and Barbuda,1958,5,Google,62,3.17
+2026-11-14,KY,Cayman Islands,1888,1,Cloudflare,663,35.12
+2026-11-14,KY,Cayman Islands,1888,2,Amazon (AWS),386,20.44
+2026-11-14,KY,Cayman Islands,1888,3,Akamai,133,7.04
+2026-11-14,KY,Cayman Islands,1888,4,Fastly,102,5.40
+2026-11-14,KY,Cayman Islands,1888,5,Google,73,3.87
+2026-11-14,GD,Grenada,1756,1,Cloudflare,712,40.55
+2026-11-14,GD,Grenada,1756,2,Amazon (AWS),316,18.00
+2026-11-14,GD,Grenada,1756,3,Akamai,102,5.81
+2026-11-14,GD,Grenada,1756,4,Fastly,97,5.52
+2026-11-14,GD,Grenada,1756,5,Google,83,4.73
+2026-11-14,CF,Central African Republic,1693,1,Cloudflare,726,42.88
+2026-11-14,CF,Central African Republic,1693,2,Amazon (AWS),225,13.29
+2026-11-14,CF,Central African Republic,1693,3,Google,97,5.73
+2026-11-14,CF,Central African Republic,1693,4,OVHcloud,48,2.84
+2026-11-14,CF,Central African Republic,1693,5,Akamai,45,2.66
+2026-11-14,GW,Guinea-Bissau,1675,1,Cloudflare,789,47.10
+2026-11-14,GW,Guinea-Bissau,1675,2,Amazon (AWS),207,12.36
+2026-11-14,GW,Guinea-Bissau,1675,3,Google,64,3.82
+2026-11-14,GW,Guinea-Bissau,1675,4,Akamai,55,3.28
+2026-11-14,GW,Guinea-Bissau,1675,5,Fastly,38,2.27
+2026-11-14,VC,Saint Vincent and the Grenadines,1612,1,Cloudflare,678,42.06
+2026-11-14,VC,Saint Vincent and the Grenadines,1612,2,Amazon (AWS),253,15.69
+2026-11-14,VC,Saint Vincent and the Grenadines,1612,3,Akamai,93,5.77
+2026-11-14,VC,Saint Vincent and the Grenadines,1612,4,Fastly,84,5.21
+2026-11-14,VC,Saint Vincent and the Grenadines,1612,5,Google,54,3.35
+2026-11-14,BM,Bermuda,1517,1,Cloudflare,456,30.06
+2026-11-14,BM,Bermuda,1517,2,Amazon (AWS),356,23.47
+2026-11-14,BM,Bermuda,1517,3,Akamai,116,7.65
+2026-11-14,BM,Bermuda,1517,4,Fastly,105,6.92
+2026-11-14,BM,Bermuda,1517,5,Google,80,5.27
+2026-11-14,VI,United States Virgin Islands,1516,1,Cloudflare,499,32.92
+2026-11-14,VI,United States Virgin Islands,1516,2,Amazon (AWS),348,22.96
+2026-11-14,VI,United States Virgin Islands,1516,3,Akamai,138,9.10
+2026-11-14,VI,United States Virgin Islands,1516,4,Fastly,102,6.73
+2026-11-14,VI,United States Virgin Islands,1516,5,Google,57,3.76
+2026-11-14,SB,Solomon Islands,1421,1,Cloudflare,680,47.85
+2026-11-14,SB,Solomon Islands,1421,2,Amazon (AWS),204,14.36
+2026-11-14,SB,Solomon Islands,1421,3,Google,46,3.24
+2026-11-14,SB,Solomon Islands,1421,4,Akamai,43,3.03
+2026-11-14,SB,Solomon Islands,1421,5,Fastly,39,2.74
+2026-11-14,VU,Vanuatu,1366,1,Cloudflare,544,39.82
+2026-11-14,VU,Vanuatu,1366,2,Amazon (AWS),172,12.59
+2026-11-14,VU,Vanuatu,1366,3,Google,51,3.73
+2026-11-14,VU,Vanuatu,1366,4,Akamai,45,3.29
+2026-11-14,VU,Vanuatu,1366,5,Fastly,40,2.93
+2026-11-14,GG,Guernsey,1336,1,Cloudflare,420,31.44
+2026-11-14,GG,Guernsey,1336,2,Amazon (AWS),336,25.15
+2026-11-14,GG,Guernsey,1336,3,Fastly,101,7.56
+2026-11-14,GG,Guernsey,1336,4,Akamai,92,6.89
+2026-11-14,GG,Guernsey,1336,5,Google,47,3.52
+2026-11-14,KM,Comoros,1326,1,Cloudflare,636,47.96
+2026-11-14,KM,Comoros,1326,2,Amazon (AWS),155,11.69
+2026-11-14,KM,Comoros,1326,3,Google,46,3.47
+2026-11-14,KM,Comoros,1326,4,Akamai,41,3.09
+2026-11-14,KM,Comoros,1326,5,OVHcloud,36,2.71
+2026-11-14,GQ,Equatorial Guinea,1224,1,Cloudflare,515,42.08
+2026-11-14,GQ,Equatorial Guinea,1224,2,Amazon (AWS),187,15.28
+2026-11-14,GQ,Equatorial Guinea,1224,3,Fastly,47,3.84
+2026-11-14,GQ,Equatorial Guinea,1224,4,Google,45,3.68
+2026-11-14,GQ,Equatorial Guinea,1224,5,Akamai,44,3.59
+2026-11-14,DM,Dominica,1129,1,Cloudflare,454,40.21
+2026-11-14,DM,Dominica,1129,2,Amazon (AWS),211,18.69
+2026-11-14,DM,Dominica,1129,3,Fastly,64,5.67
+2026-11-14,DM,Dominica,1129,4,Akamai,63,5.58
+2026-11-14,DM,Dominica,1129,5,Google,37,3.28
+2026-11-14,SX,Sint Maarten,1084,1,Cloudflare,339,31.27
+2026-11-14,SX,Sint Maarten,1084,2,Amazon (AWS),211,19.46
+2026-11-14,SX,Sint Maarten,1084,3,Akamai,91,8.39
+2026-11-14,SX,Sint Maarten,1084,4,Fastly,65,6.00
+2026-11-14,SX,Sint Maarten,1084,5,Google,46,4.24
+2026-11-14,KN,Saint Kitts and Nevis,1068,1,Cloudflare,392,36.70
+2026-11-14,KN,Saint Kitts and Nevis,1068,2,Amazon (AWS),198,18.54
+2026-11-14,KN,Saint Kitts and Nevis,1068,3,Akamai,75,7.02
+2026-11-14,KN,Saint Kitts and Nevis,1068,4,Fastly,64,5.99
+2026-11-14,KN,Saint Kitts and Nevis,1068,5,Google,39,3.65
+2026-11-14,FO,Faroe Islands,1054,1,Cloudflare,337,31.97
+2026-11-14,FO,Faroe Islands,1054,2,Amazon (AWS),191,18.12
+2026-11-14,FO,Faroe Islands,1054,3,team.blue Denmark A/S,60,5.69
+2026-11-14,FO,Faroe Islands,1054,4,DigitalOcean,59,5.60
+2026-11-14,FO,Faroe Islands,1054,5,Fastly,56,5.31
+2026-11-14,LI,Liechtenstein,1007,1,Cloudflare,238,23.63
+2026-11-14,LI,Liechtenstein,1007,2,Amazon (AWS),166,16.48
+2026-11-14,LI,Liechtenstein,1007,3,Google,54,5.36
+2026-11-14,LI,Liechtenstein,1007,4,Hetzner,48,4.77
+2026-11-14,LI,Liechtenstein,1007,5,Akamai,45,4.47
